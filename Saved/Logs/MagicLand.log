@@ -2798,3 +2798,512 @@ GroupActor_UAID_A8A15945CE7A656F01_1588934211
 [2023.03.15-02.02.31:455][ 46]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/Levels/LevelTest.LevelTest:PersistentLevel.PointLight_UAID_A8A15945CE7A676F01_1103011615
 [2023.03.15-02.02.31:455][ 46]LogContentValidation: Display: Validating /Script/Engine.SpotLight /Game/Levels/LevelTest.LevelTest:PersistentLevel.SpotLight_UAID_A8A15945CE7A666F01_1757566427
 [2023.03.15-02.02.31:455][ 46]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Castle_Fountain_02_UAID_A8A15945CE7A656F01_1921910224
+[2023.03.15-02.05.19:052][792]LogViewport: Scene viewport resized to 1786x1033, mode Windowed.
+[2023.03.15-02.05.19:071][793]LogViewport: Scene viewport resized to 1848x1055, mode Windowed.
+[2023.03.15-02.05.19:110][794]LogViewport: Scene viewport resized to 1908x1076, mode Windowed.
+[2023.03.15-02.05.19:148][795]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2023.03.15-02.05.38:899][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-02.05.38:903][356]LogContentBundle: [Container: LevelTest] Generating Streaming for 0 Content Bundles.
+[2023.03.15-02.05.38:911][356]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.15-02.05.38:911][356]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.15-02.05.38:911][356]LogWorldPartition: Display: GetPartitionedActors took 16 us (total: 421 us)
+[2023.03.15-02.05.38:913][356]LogWorldPartition: Display: GenerateStreaming took 2 ms (total: 10 ms)
+[2023.03.15-02.05.38:913][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-02.05.38:913][356]PIE: New page: PIE session: LevelTest (14 mar. 2023 16:05:38)
+[2023.03.15-02.05.38:913][356]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTest
+[2023.03.15-02.05.38:940][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027019s)
+[2023.03.15-02.05.38:940][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTest.LevelTest to /Game/Levels/UEDPIE_0_LevelTest.LevelTest (0.027045s)
+[2023.03.15-02.05.38:940][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-02.05.38:941][356]LogAIModule: Creating AISystem for world LevelTest
+[2023.03.15-02.05.38:941][356]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.15-02.05.38:941][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.15-02.05.38:941][356]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.15-02.05.38:949][356]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.03.15-02.05.38:949][356]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 8.57 sec)
+[2023.03.15-02.05.38:949][356]LogPlayLevel: PIE: World Init took: (0.008593s)
+[2023.03.15-02.05.38:955][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.03.15-02.05.38:956][356]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-02.05.38:956][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-02.05.38:956][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-02.05.38:957][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-02.05.38:957][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-02.05.38:957][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-02.05.39:015][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-02.05.39:026][356]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- Echo Dot-0BW Stereo)
+[2023.03.15-02.05.39:026][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-02.05.39:026][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-02.05.39:026][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-02.05.39:027][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.03.15-02.05.39:027][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.03.15-02.05.39:028][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.03.15-02.05.39:028][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.03.15-02.05.39:028][356]LogInit: FAudioDevice initialized.
+[2023.03.15-02.05.39:028][356]LogAudio: Display: Audio Device (ID: 6) registered with world 'LevelTest'.
+[2023.03.15-02.05.39:031][356]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.15-02.05.39:044][356]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTest.LevelTest up for play (max tick rate 0) at 2023.03.14-21.05.39
+[2023.03.15-02.05.39:045][356]LogWorld: Bringing up level for play took: 0.012910
+[2023.03.15-02.05.39:046][356]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.03.15-02.05.39:047][356]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=229.764 Z=271.674
+[2023.03.15-02.05.39:048][356]PIE: Server logged in
+[2023.03.15-02.05.39:049][356]PIE: Play in editor total start time 0,146 seconds.
+[2023.03.15-02.05.40:882][503]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.03.15-02.06.02:739][ 31]LogBlueprintUserMessages: [LevelTest_C_4] Has encontrado 0 de 3 martillos
+[2023.03.15-02.06.03:918][111]LogBlueprintUserMessages: [LevelTest_C_4] Has encontrado 0 de 3 martillos
+[2023.03.15-02.06.04:098][123]LogBlueprintUserMessages: [LevelTest_C_4] Has encontrado 0 de 3 martillos
+[2023.03.15-02.06.17:066][ 69]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2023.03.15-02.06.42:426][981]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2023.03.15-02.06.50:643][503]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2023.03.15-02.07.07:733][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.07.07:733][451]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTest
+[2023.03.15-02.07.07:733][451]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.07.07:735][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.07.07:735][451]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.03.15-02.07.07:738][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-02.07.07:741][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.07.07:748][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.07.07:749][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.15-02.07.07:751][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.03.15-02.07.07:758][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.03.15-02.07.07:804][456]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.03.15-02.07.48:556][ 97]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2023.03.15-02.07.56:361][650]LightingResults: New page: Lighting Build
+[2023.03.15-02.07.56:361][650]LoadErrors: New page: Loading map: Overview.umap
+[2023.03.15-02.07.56:404][650]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.07.56:405][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.07.56:409][650]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.03.15-02.07.56:409][650]MapCheck: New page: Map Check
+[2023.03.15-02.07.56:409][650]LightingResults: New page: Lighting Build
+[2023.03.15-02.07.56:417][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-02.07.56:427][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.15-02.07.56:442][650]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2023.03.15-02.07.56:442][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-02.07.56:442][650]LogAIModule: Creating AISystem for world Overview
+[2023.03.15-02.07.56:457][650]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.15-02.07.56:466][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.03.15-02.07.56:473][650]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.15-02.07.56:473][650]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,075ms to complete.
+[2023.03.15-02.07.56:473][650]LogFileHelpers: Loading map 'Overview' took 0.115
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: ================================================
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Total job queries 508, among them cache hits 53 (10.43%)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Tracking 455 distinct input hashes that result in 245 distinct outputs (53.85%)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: RAM used: 3.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.39%
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Shaders Compiled: 26
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Jobs assigned 26, completed 26 (100.00%)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Average time worker was idle: 239.03 s
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 0.78 s
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 2.02 s
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 2.12
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.07 s
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Jobs were issued in 26 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Average processing rate: 5.13 jobs/sec
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Total thread time: 13.11 s
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Total thread preprocess time: 0.85 s
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Percentage time preprocessing: 6.52%
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.62 sec, max 0.62 sec, min 0.61 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.61 sec, max 0.63 sec, min 0.59 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.60 sec, max 0.63 sec, min 0.58 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    2 times, average 0.60 sec, max 0.61 sec, min 0.59 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    1 times, average 0.60 sec, max 0.60 sec, min 0.60 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.39% of total time (compiled    2 times, average 0.62 sec, max 0.62 sec, min 0.61 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 9.33% of total time (compiled    2 times, average 0.61 sec, max 0.63 sec, min 0.59 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 9.23% of total time (compiled    2 times, average 0.60 sec, max 0.63 sec, min 0.58 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 9.16% of total time (compiled    2 times, average 0.60 sec, max 0.61 sec, min 0.59 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 8.33% of total time (compiled    2 times, average 0.55 sec, max 0.58 sec, min 0.51 sec)
+[2023.03.15-02.08.04:384][430]LogShaderCompilers: Display: ================================================
+[2023.03.15-02.08.52:463][ 99]Cmd: EDIT COPY
+[2023.03.15-02.08.52:643][117]Cmd: EDIT COPY
+[2023.03.15-02.08.52:782][131]Cmd: EDIT COPY
+[2023.03.15-02.08.52:946][146]Cmd: EDIT COPY
+[2023.03.15-02.09.00:565][603]LogSlate: Window 'Save Content' being destroyed
+[2023.03.15-02.09.00:568][603]Cmd: MAP LOAD FILE="../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/Levels/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.15-02.09.00:573][603]LightingResults: New page: Lighting Build
+[2023.03.15-02.09.00:573][603]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.03.15-02.09.00:576][603]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.09.00:576][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.09.00:576][603]MapCheck: New page: Map Check
+[2023.03.15-02.09.00:576][603]LightingResults: New page: Lighting Build
+[2023.03.15-02.09.00:583][603]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-02.09.00:585][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.03.15-02.09.00:723][603]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.03.15-02.09.00:723][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-02.09.00:723][603]LogAIModule: Creating AISystem for world LevelTest
+[2023.03.15-02.09.00:732][603]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.15-02.09.00:732][603]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.15-02.09.00:732][603]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.15-02.09.01:961][603]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.03.15-02.09.01:961][603]LogWorldPartition: Display: WorldPartition initialize took 1.22 sec (total: 9.80 sec)
+[2023.03.15-02.09.01:989][603]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.15-02.09.02:001][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.15-02.09.02:008][603]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.15-02.09.02:009][603]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,323ms to complete.
+[2023.03.15-02.09.02:009][603]LogFileHelpers: Loading map 'LevelTest' took 1.442
+[2023.03.15-02.09.03:798][717]LogViewport: Scene viewport resized to 1746x1019, mode Windowed.
+[2023.03.15-02.09.03:815][718]LogViewport: Scene viewport resized to 1814x1043, mode Windowed.
+[2023.03.15-02.09.03:845][719]LogViewport: Scene viewport resized to 1886x1068, mode Windowed.
+[2023.03.15-02.09.03:874][720]LogViewport: Scene viewport resized to 1913x1078, mode Windowed.
+[2023.03.15-02.09.03:903][721]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2023.03.15-02.09.06:471][926]Cmd: EDIT PASTE
+[2023.03.15-02.12.21:052][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.13.06:035][917]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.13.14:925][430]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.13.23:854][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.13.37:619][ 65]Cmd: MODE SCALEGRID=1
+[2023.03.15-02.14.04:734][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.14.42:271][711]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.15.52:080][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.16.26:365][983]Cmd: DELETE
+[2023.03.15-02.16.26:365][983]Cmd: ACTOR DELETE
+[2023.03.15-02.16.26:368][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.16.26:375][983]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.15-02.16.26:377][983]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.15-02.16.27:366][ 59]Cmd: DELETE
+[2023.03.15-02.16.27:366][ 59]Cmd: ACTOR DELETE
+[2023.03.15-02.16.27:369][ 59]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.16.27:376][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.15-02.16.27:378][ 59]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.15-02.16.28:155][118]Cmd: DELETE
+[2023.03.15-02.16.28:155][118]Cmd: ACTOR DELETE
+[2023.03.15-02.16.28:158][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.16.28:165][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.03.15-02.16.28:167][118]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.15-02.16.28:619][150]Cmd: DELETE
+[2023.03.15-02.16.28:619][150]Cmd: ACTOR DELETE
+[2023.03.15-02.16.28:621][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.16.28:628][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.03.15-02.16.28:630][150]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.15-02.16.29:084][181]Cmd: DELETE
+[2023.03.15-02.16.29:084][181]Cmd: ACTOR DELETE
+[2023.03.15-02.16.29:087][181]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.16.29:094][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.03.15-02.16.29:096][181]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.03.15-02.16.37:845][787]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.15-02.18.34:507][295]Cmd: TRANSACTION UNDO
+[2023.03.15-02.18.34:508][295]LogEditorTransaction: Undo Move Elements
+[2023.03.15-02.21.11:762][877]Cmd: TRANSACTION UNDO
+[2023.03.15-02.21.11:762][877]LogEditorTransaction: Undo Move Elements
+[2023.03.15-02.24.51:494][263]Cmd: DELETE
+[2023.03.15-02.24.51:494][263]Cmd: ACTOR DELETE
+[2023.03.15-02.24.51:497][263]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.24.51:505][263]LogWorldPartition: Actor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Floors_TrimBlock01_UAID_A8A15945CE7A686F01_1125707825 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/LevelTest/E/M5/38XWJI9RF4U071KEMX0M9U.PackageMetaData in its package
+[2023.03.15-02.24.51:505][263]LogWorldPartition: Actor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1282837836 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/LevelTest/1/0V/MDYT8JGWB2WQ8ZUWIDQSUZ.PackageMetaData in its package
+[2023.03.15-02.24.51:506][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.03.15-02.24.51:508][263]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.03.15-02.24.51:519][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.03.15-02.24.55:941][604]Cmd: DELETE
+[2023.03.15-02.24.55:941][604]Cmd: ACTOR DELETE
+[2023.03.15-02.24.55:944][604]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.15-02.24.55:952][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.03.15-02.24.55:953][604]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.03.15-02.24.57:733][747]LogViewport: Scene viewport resized to 1744x1018, mode Windowed.
+[2023.03.15-02.24.57:742][748]LogViewport: Scene viewport resized to 1669x992, mode Windowed.
+[2023.03.15-02.24.57:769][749]LogViewport: Scene viewport resized to 1604x970, mode Windowed.
+[2023.03.15-02.24.57:795][750]LogViewport: Scene viewport resized to 1562x955, mode Windowed.
+[2023.03.15-02.24.57:820][751]LogViewport: Scene viewport resized to 1539x947, mode Windowed.
+[2023.03.15-02.24.57:845][752]LogViewport: Scene viewport resized to 1529x943, mode Windowed.
+[2023.03.15-02.24.57:870][753]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2023.03.15-02.24.58:947][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.03.15-02.24.58:958][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.15-02.24.59:007][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/0/NF/D3C64BJQ9UC00UBE7RV0KX
+[2023.03.15-02.24.59:007][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/D3C64BJQ9UC00UBE7RV0KX38F1E8934A9BDDBDF76BE0AC991B7028.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/0/NF/D3C64BJQ9UC00UBE7RV0KX.uasset'
+[2023.03.15-02.24.59:023][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/A/WF/DOBGOVYD7B7VU7QTNM5HV7
+[2023.03.15-02.24.59:024][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/DOBGOVYD7B7VU7QTNM5HV797BB5A7C428AA035E3338AB1A4AA12D0.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/A/WF/DOBGOVYD7B7VU7QTNM5HV7.uasset'
+[2023.03.15-02.24.59:025][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/8/NS/UBU4LTOAO9M27PD4WNAFZE
+[2023.03.15-02.24.59:025][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/UBU4LTOAO9M27PD4WNAFZE1D0F9EC7420F52E2AA288DBF420763D8.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/8/NS/UBU4LTOAO9M27PD4WNAFZE.uasset'
+[2023.03.15-02.24.59:026][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/E/SO/ZPHHYC763KRWPHLCFB2AQ4
+[2023.03.15-02.24.59:026][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/ZPHHYC763KRWPHLCFB2AQ4CDD9D94D49422C095D4EB6BFE2E3C0E8.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/E/SO/ZPHHYC763KRWPHLCFB2AQ4.uasset'
+[2023.03.15-02.24.59:027][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/3/CV/02QU8ZQ9T0HJN9JSGPXERS
+[2023.03.15-02.24.59:027][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/02QU8ZQ9T0HJN9JSGPXERSD72A59F94DFF9E3C172EDC870AEBB5E7.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/3/CV/02QU8ZQ9T0HJN9JSGPXERS.uasset'
+[2023.03.15-02.24.59:028][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/D/B4/XACI4JJVXVTZ96Y5UTHNSP
+[2023.03.15-02.24.59:028][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/XACI4JJVXVTZ96Y5UTHNSP87C81E2347C98CAFAB559790C07D7B5B.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/D/B4/XACI4JJVXVTZ96Y5UTHNSP.uasset'
+[2023.03.15-02.24.59:030][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/7M/DZP47TVIW0EJ59Y59UDDAW
+[2023.03.15-02.24.59:030][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/DZP47TVIW0EJ59Y59UDDAWACCEA92F496BE72906459DA3C84329ED.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/7M/DZP47TVIW0EJ59Y59UDDAW.uasset'
+[2023.03.15-02.24.59:031][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/1/2Z/T2PYGRH67T1P7242FYWHS3
+[2023.03.15-02.24.59:031][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/T2PYGRH67T1P7242FYWHS37BD0358F4C02E897DAADF0BA752DA4CB.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/1/2Z/T2PYGRH67T1P7242FYWHS3.uasset'
+[2023.03.15-02.24.59:032][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/D/X9/PFCZ4YU76MN6YRL6FAZHUJ
+[2023.03.15-02.24.59:032][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/PFCZ4YU76MN6YRL6FAZHUJD74AC70C4A19B6E166238382F6CF01D8.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/D/X9/PFCZ4YU76MN6YRL6FAZHUJ.uasset'
+[2023.03.15-02.24.59:033][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/Y9/ZMISXNBQZL9RVSG1CX27CP
+[2023.03.15-02.24.59:033][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/ZMISXNBQZL9RVSG1CX27CPAB10EDBD4D20E44A25C200BB96CD6147.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/Y9/ZMISXNBQZL9RVSG1CX27CP.uasset'
+[2023.03.15-02.24.59:034][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/1/BD/QS1BW1R7PLM5HN6E7SMXPU
+[2023.03.15-02.24.59:034][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/QS1BW1R7PLM5HN6E7SMXPU9D86CE304F4B99C1B4CB2383DA5ED0A6.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/1/BD/QS1BW1R7PLM5HN6E7SMXPU.uasset'
+[2023.03.15-02.24.59:035][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/0/7B/2ONWHXOV7HL9XEJT21F1IS
+[2023.03.15-02.24.59:036][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/2ONWHXOV7HL9XEJT21F1ISCD725BDA47FDCF8954542296C070AF29.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/0/7B/2ONWHXOV7HL9XEJT21F1IS.uasset'
+[2023.03.15-02.24.59:037][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/3/4U/G0BYMYHLRIB5TKMCPVDAPQ
+[2023.03.15-02.24.59:037][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/G0BYMYHLRIB5TKMCPVDAPQ415E326D4317DD2DAB2E43A1CE55BA9B.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/3/4U/G0BYMYHLRIB5TKMCPVDAPQ.uasset'
+[2023.03.15-02.24.59:038][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/B/JL/X3Z9F6NF8PINBEGZ2FQSKK
+[2023.03.15-02.24.59:038][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/X3Z9F6NF8PINBEGZ2FQSKK71C6856341DFA9B278A070BE9FA0D0ED.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/B/JL/X3Z9F6NF8PINBEGZ2FQSKK.uasset'
+[2023.03.15-02.24.59:039][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/E/QG/AESD8ST5GEPM20C08XP5N3
+[2023.03.15-02.24.59:039][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/AESD8ST5GEPM20C08XP5N3045D4D95480A5E970B66B2A78CDD81E0.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/E/QG/AESD8ST5GEPM20C08XP5N3.uasset'
+[2023.03.15-02.24.59:040][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/8/Q3/XBTLLSGY62OCE0DXFUCTJD
+[2023.03.15-02.24.59:040][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/XBTLLSGY62OCE0DXFUCTJD88A3384E44706D1191F686995A9752F1.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/8/Q3/XBTLLSGY62OCE0DXFUCTJD.uasset'
+[2023.03.15-02.24.59:042][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/2/ML/TZHL6XFHEIMM43ZE5OAN14
+[2023.03.15-02.24.59:042][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/TZHL6XFHEIMM43ZE5OAN1462F86DB94667C0F48CB3F982E86D7DF8.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/2/ML/TZHL6XFHEIMM43ZE5OAN14.uasset'
+[2023.03.15-02.24.59:043][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/C/W4/F3M8D2UETIA0HM45URX1S9
+[2023.03.15-02.24.59:043][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/F3M8D2UETIA0HM45URX1S9A9B86C6A4808545D754DEB853955582C.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/C/W4/F3M8D2UETIA0HM45URX1S9.uasset'
+[2023.03.15-02.24.59:044][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/A/Q7/KDR06CC2RPD1V69X76UJNW
+[2023.03.15-02.24.59:044][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/KDR06CC2RPD1V69X76UJNW270D8E92464D9680842CFF8BF2213761.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/A/Q7/KDR06CC2RPD1V69X76UJNW.uasset'
+[2023.03.15-02.24.59:045][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/B/Y7/651IBLSAL8C814DF6IY4X1
+[2023.03.15-02.24.59:045][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/651IBLSAL8C814DF6IY4X1C4E158D2466138C3E9112E96ADF034FB.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/B/Y7/651IBLSAL8C814DF6IY4X1.uasset'
+[2023.03.15-02.24.59:046][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/HR/QQ71ON5XR8HAAWSW99C2TG
+[2023.03.15-02.24.59:046][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/QQ71ON5XR8HAAWSW99C2TGB6AF4C394C23BD8B4941D1A476DE17AC.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/HR/QQ71ON5XR8HAAWSW99C2TG.uasset'
+[2023.03.15-02.24.59:048][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/A/QZ/VYA6HSQ7GXYFOP79KYBGMG
+[2023.03.15-02.24.59:048][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/VYA6HSQ7GXYFOP79KYBGMG38FAAC874BAFA6CC20137DB5C5496D43.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/A/QZ/VYA6HSQ7GXYFOP79KYBGMG.uasset'
+[2023.03.15-02.24.59:049][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/LW/VVU69VK5Y11OK0KSFA9C7V
+[2023.03.15-02.24.59:049][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/VVU69VK5Y11OK0KSFA9C7V100D9DCA43F20362B66C4A83F5FAB9A9.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/LW/VVU69VK5Y11OK0KSFA9C7V.uasset'
+[2023.03.15-02.24.59:050][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/0/37/1RDM7U199HHASSYK6NW87J
+[2023.03.15-02.24.59:050][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/1RDM7U199HHASSYK6NW87JD214E73F4EAEF88D13639796E5CDD532.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/0/37/1RDM7U199HHASSYK6NW87J.uasset'
+[2023.03.15-02.24.59:051][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/9/IT/BYM882FTMSZSWLFGUMK0MY
+[2023.03.15-02.24.59:051][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/BYM882FTMSZSWLFGUMK0MY8106C40046D6633A6EA55D853E406F19.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/9/IT/BYM882FTMSZSWLFGUMK0MY.uasset'
+[2023.03.15-02.24.59:052][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/2/AF/D1H1K9OUV7N6HIPRN0XVVI
+[2023.03.15-02.24.59:052][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/D1H1K9OUV7N6HIPRN0XVVI643BAD6B4178F220A628A993D8351862.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/2/AF/D1H1K9OUV7N6HIPRN0XVVI.uasset'
+[2023.03.15-02.24.59:054][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/9/JZ/VYVMW50IRIE3Q2R1YNF0LW
+[2023.03.15-02.24.59:054][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/VYVMW50IRIE3Q2R1YNF0LW6ADA89E04B0322A7B2411FAB1FEBC329.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/9/JZ/VYVMW50IRIE3Q2R1YNF0LW.uasset'
+[2023.03.15-02.24.59:055][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/D/06/N65MMUAKD7WEQJCSL1HIWL
+[2023.03.15-02.24.59:055][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/N65MMUAKD7WEQJCSL1HIWL866CCF26474A4CAFD6A7B595CE1253A7.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/D/06/N65MMUAKD7WEQJCSL1HIWL.uasset'
+[2023.03.15-02.24.59:056][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/6/V6/JTWBWSGCZ81GEP43EGBOTO
+[2023.03.15-02.24.59:056][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/JTWBWSGCZ81GEP43EGBOTO3013624B4BC8681A7CB480AA08BD5165.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/6/V6/JTWBWSGCZ81GEP43EGBOTO.uasset'
+[2023.03.15-02.24.59:057][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/7/Y8/N95LBGG6WDK9PNWWSP7WDS
+[2023.03.15-02.24.59:057][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/N95LBGG6WDK9PNWWSP7WDS5ADE1B9F410D555807AF93A59555A01A.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/7/Y8/N95LBGG6WDK9PNWWSP7WDS.uasset'
+[2023.03.15-02.24.59:058][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/8/RL/BNXZUPHL6OCDPPZ24HX3BX
+[2023.03.15-02.24.59:058][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/BNXZUPHL6OCDPPZ24HX3BXAB202E734A7411F029C4C0B98E1FCEEE.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/8/RL/BNXZUPHL6OCDPPZ24HX3BX.uasset'
+[2023.03.15-02.24.59:059][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/D/B4/D4WP3PUK9WNVVBGKWC1V2V
+[2023.03.15-02.24.59:059][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/D4WP3PUK9WNVVBGKWC1V2V16345D2C4A20A77D26B6428D92100A0A.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/D/B4/D4WP3PUK9WNVVBGKWC1V2V.uasset'
+[2023.03.15-02.24.59:060][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/3/RF/N2J7DBXWD0MKGZM8S081HV
+[2023.03.15-02.24.59:060][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/N2J7DBXWD0MKGZM8S081HVAA8B67F64609991453C88D967869BC74.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/3/RF/N2J7DBXWD0MKGZM8S081HV.uasset'
+[2023.03.15-02.24.59:061][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/C/9P/K7D4VKJOLZBPYX8J7CTCQZ
+[2023.03.15-02.24.59:061][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/K7D4VKJOLZBPYX8J7CTCQZB3AF5DAC4BE6413D5EF5D8906732081F.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/C/9P/K7D4VKJOLZBPYX8J7CTCQZ.uasset'
+[2023.03.15-02.24.59:062][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/4/W1/3AZ0DVYR2HRCH8PD708T72
+[2023.03.15-02.24.59:062][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/3AZ0DVYR2HRCH8PD708T722DA19D234BCD42FD1F7E3D864CF4E4B6.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/4/W1/3AZ0DVYR2HRCH8PD708T72.uasset'
+[2023.03.15-02.24.59:064][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/1/9G/GLLUOZMTNSK2IK9GLE73AV
+[2023.03.15-02.24.59:064][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/GLLUOZMTNSK2IK9GLE73AV52F8F97343D1AD19E97424A39204FD41.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/1/9G/GLLUOZMTNSK2IK9GLE73AV.uasset'
+[2023.03.15-02.24.59:065][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/B/C8/4IF5LV57UKYRJM07Z024QQ
+[2023.03.15-02.24.59:065][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/4IF5LV57UKYRJM07Z024QQ2DD24C1E4188FED76F6956A08E140918.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/B/C8/4IF5LV57UKYRJM07Z024QQ.uasset'
+[2023.03.15-02.24.59:066][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/1/7I/YLXUCK1WJR02IEY8Z40BF6
+[2023.03.15-02.24.59:066][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/YLXUCK1WJR02IEY8Z40BF6DDEB10B448A9839576C17F87CB7A421E.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/1/7I/YLXUCK1WJR02IEY8Z40BF6.uasset'
+[2023.03.15-02.24.59:067][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/X7/5W2HOV855WTE9V2S7QX6F1
+[2023.03.15-02.24.59:067][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/5W2HOV855WTE9V2S7QX6F10A8DA28C442672AA6418398C955EF562.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/X7/5W2HOV855WTE9V2S7QX6F1.uasset'
+[2023.03.15-02.24.59:068][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/8/CT/UEXDW40AV2GJTUM1LHHKKO
+[2023.03.15-02.24.59:068][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/UEXDW40AV2GJTUM1LHHKKO140EDF3647D43CFDBAC4709694929880.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/8/CT/UEXDW40AV2GJTUM1LHHKKO.uasset'
+[2023.03.15-02.24.59:069][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/Y5/4GODQUW81CJT29P0GMZ9LY
+[2023.03.15-02.24.59:069][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/4GODQUW81CJT29P0GMZ9LY13C2C3EA4AB22B799CA5A293CB3D7836.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/Y5/4GODQUW81CJT29P0GMZ9LY.uasset'
+[2023.03.15-02.24.59:070][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/E/EB/WFWDDYNFCWJA307539DVHY
+[2023.03.15-02.24.59:070][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/WFWDDYNFCWJA307539DVHY056BD2B042F3378FD09289A56FA96AEA.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/E/EB/WFWDDYNFCWJA307539DVHY.uasset'
+[2023.03.15-02.24.59:071][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/A/UJ/BZX1LTJXC0HRN5YFJ7CBIQ
+[2023.03.15-02.24.59:071][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/BZX1LTJXC0HRN5YFJ7CBIQ628F4D80405CDF1D8E4FFFBA7FE1D8F8.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/A/UJ/BZX1LTJXC0HRN5YFJ7CBIQ.uasset'
+[2023.03.15-02.24.59:072][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/8/5U/UTHHS2J3M997CZFZUQMJIM
+[2023.03.15-02.24.59:072][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/UTHHS2J3M997CZFZUQMJIM3E1F918D4B0A5CF80338B995D6881E89.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/8/5U/UTHHS2J3M997CZFZUQMJIM.uasset'
+[2023.03.15-02.24.59:073][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/0/P1/GJZ4XVDBDAYEHEGLM92HLX
+[2023.03.15-02.24.59:073][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/GJZ4XVDBDAYEHEGLM92HLXD263B65B47C03E699079C699CB4499FF.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/0/P1/GJZ4XVDBDAYEHEGLM92HLX.uasset'
+[2023.03.15-02.24.59:074][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/5/5Q/WPS2UM7JPJ5MOO9UUYE2Z6
+[2023.03.15-02.24.59:074][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/WPS2UM7JPJ5MOO9UUYE2Z6CF576BD9417055EDD9FB0F8060E0C0A9.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/5/5Q/WPS2UM7JPJ5MOO9UUYE2Z6.uasset'
+[2023.03.15-02.24.59:075][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/7/ZD/49JTII9OSGRCXGK1ASGVT9
+[2023.03.15-02.24.59:075][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/49JTII9OSGRCXGK1ASGVT9FF74E23441BF98AFD97F47AB14FDA323.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/7/ZD/49JTII9OSGRCXGK1ASGVT9.uasset'
+[2023.03.15-02.24.59:082][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/2/BR/RCJ53OGEDM8MX6H6B7J6ZX
+[2023.03.15-02.24.59:082][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/RCJ53OGEDM8MX6H6B7J6ZXAF223038411F68F016E0C8BC96B1E93B.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/2/BR/RCJ53OGEDM8MX6H6B7J6ZX.uasset'
+[2023.03.15-02.24.59:083][841]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/7/2S/A8W6UGJWOEGZTUEM5NL27W
+[2023.03.15-02.24.59:083][841]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/A8W6UGJWOEGZTUEM5NL27W6E646DFB42499E75B5C8C2BC909E3F9D.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/7/2S/A8W6UGJWOEGZTUEM5NL27W.uasset'
+[2023.03.15-02.24.59:099][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 4.19 sec)
+[2023.03.15-02.24.59:103][841]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1148028827
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1129878826
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Cart_Damaged_UAID_A8A15945CE7A676F01_2024368638
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Cart_Damaged_UAID_A8A15945CE7A676F01_2014514637
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Crate_Open_Destroyed_UAID_A8A15945CE7A676F01_1964123636
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Crate_Open_Intact_UAID_A8A15945CE7A676F01_1964122635
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Destroyed_UAID_A8A15945CE7A676F01_1925636634
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1103872824
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Intact_UAID_A8A15945CE7A676F01_1870980633
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Damaged_UAID_A8A15945CE7A676F01_1870979632
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1079348823
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Crate_Open_Destroyed_UAID_A8A15945CE7A676F01_1825075631
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Cart_Damaged_UAID_A8A15945CE7A676F01_1738377630
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A676F01_2129914646
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Destroyed_UAID_A8A15945CE7A676F01_1714569629
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Destroyed_UAID_A8A15945CE7A676F01_1704873628
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A676F01_2117913645
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Destroyed_UAID_A8A15945CE7A676F01_1688101627
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Damaged_UAID_A8A15945CE7A676F01_1666499626
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A676F01_2108443644
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Damaged_UAID_A8A15945CE7A676F01_1644491625
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A676F01_1632964624
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Crate_Open_Intact_UAID_A8A15945CE7A676F01_1632961618
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Crate_Open_Destroyed_UAID_A8A15945CE7A676F01_2036997643
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Exo_Crate_Open_Intact_UAID_A8A15945CE7A676F01_2036997642
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Destroyed_UAID_A8A15945CE7A676F01_2036996641
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Intact_UAID_A8A15945CE7A676F01_2036996640
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1444279849
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1437853848
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1434073847
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1432536846
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1406943845
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1397204844
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1388741843
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1383539842
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1373715841
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1358932840
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1319388839
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1307818838
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1286061837
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1263582835
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1208161834
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1198330833
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1173465832
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1172123831
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1170388830
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1166407829
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1165333828
+[2023.03.15-02.24.59:103][841]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_WoodenBarrel_Damaged_UAID_A8A15945CE7A676F01_2036994639
+[2023.03.15-02.25.13:983][529]LogViewport: Scene viewport resized to 1762x1025, mode Windowed.
+[2023.03.15-02.25.14:001][530]LogViewport: Scene viewport resized to 1827x1047, mode Windowed.
+[2023.03.15-02.25.14:032][531]LogViewport: Scene viewport resized to 1892x1070, mode Windowed.
+[2023.03.15-02.25.14:063][532]LogViewport: Scene viewport resized to 1917x1079, mode Windowed.
+[2023.03.15-02.25.14:096][533]LogViewport: Scene viewport resized to 1920x1080, mode Windowed.
+[2023.03.15-02.25.28:037][672]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.15-02.25.28:042][672]LogContentBundle: [Container: LevelTest] Generating Streaming for 0 Content Bundles.
+[2023.03.15-02.25.28:050][672]LogWorldPartition: Display: GenerateStreaming started...
+[2023.03.15-02.25.28:050][672]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.03.15-02.25.28:050][672]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 440 us)
+[2023.03.15-02.25.28:052][672]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 12 ms)
+[2023.03.15-02.25.28:052][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.15-02.25.28:052][672]PIE: New page: PIE session: LevelTest (14 mar. 2023 16:25:28)
+[2023.03.15-02.25.28:053][672]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_LevelTest
+[2023.03.15-02.25.28:081][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028902s)
+[2023.03.15-02.25.28:081][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/LevelTest.LevelTest to /Game/Levels/UEDPIE_0_LevelTest.LevelTest (0.028927s)
+[2023.03.15-02.25.28:081][672]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-02.25.28:082][672]LogAIModule: Creating AISystem for world LevelTest
+[2023.03.15-02.25.28:082][672]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.15-02.25.28:082][672]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.15-02.25.28:082][672]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.15-02.25.28:090][672]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.03.15-02.25.28:091][672]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 9.81 sec)
+[2023.03.15-02.25.28:091][672]LogPlayLevel: PIE: World Init took: (0.008949s)
+[2023.03.15-02.25.28:097][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.03.15-02.25.28:099][672]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.15-02.25.28:099][672]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.15-02.25.28:099][672]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.15-02.25.28:099][672]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.15-02.25.28:099][672]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.15-02.25.28:099][672]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.15-02.25.28:101][672]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.15-02.25.28:112][672]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- Echo Dot-0BW Stereo)
+[2023.03.15-02.25.28:112][672]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.15-02.25.28:112][672]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.15-02.25.28:112][672]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.15-02.25.28:113][672]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.03.15-02.25.28:113][672]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.03.15-02.25.28:114][672]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.03.15-02.25.28:114][672]LogInit: FAudioDevice initialized.
+[2023.03.15-02.25.28:114][672]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.03.15-02.25.28:114][672]LogAudio: Display: Audio Device (ID: 7) registered with world 'LevelTest'.
+[2023.03.15-02.25.28:117][672]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.15-02.25.28:131][672]LogWorld: Bringing World /Game/Levels/UEDPIE_0_LevelTest.LevelTest up for play (max tick rate 0) at 2023.03.14-21.25.28
+[2023.03.15-02.25.28:131][672]LogWorld: Bringing up level for play took: 0.014254
+[2023.03.15-02.25.28:132][672]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.03.15-02.25.28:134][672]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=229.764 Z=271.674
+[2023.03.15-02.25.28:134][672]PIE: Server logged in
+[2023.03.15-02.25.28:135][672]PIE: Play in editor total start time 0,094 seconds.
+[2023.03.15-02.25.30:028][822]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.03.15-02.25.49:223][ 64]LogBlueprintUserMessages: [LevelTest_C_4] Has encontrado 0 de 3 martillos
+[2023.03.15-02.26.11:290][618]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 1
+[2023.03.15-02.26.30:059][ 28]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 2
+[2023.03.15-02.26.37:971][513]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 3
+[2023.03.15-02.26.54:203][414]Cmd: LevelEditor.ToggleImmersive
+[2023.03.15-02.26.54:251][414]LogViewport: Scene viewport resized to 1686x998, mode Windowed.
+[2023.03.15-02.26.54:260][415]LogViewport: Scene viewport resized to 1639x982, mode Windowed.
+[2023.03.15-02.26.54:288][416]LogViewport: Scene viewport resized to 1581x962, mode Windowed.
+[2023.03.15-02.26.54:315][417]LogViewport: Scene viewport resized to 1548x950, mode Windowed.
+[2023.03.15-02.26.54:342][418]LogViewport: Scene viewport resized to 1532x944, mode Windowed.
+[2023.03.15-02.26.54:369][419]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2023.03.15-02.26.59:290][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.26.59:290][776]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_LevelTest
+[2023.03.15-02.26.59:290][776]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.26.59:292][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.26.59:292][776]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.03.15-02.26.59:304][776]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.15-02.26.59:307][776]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.26.59:315][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.15-02.26.59:315][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.15-02.26.59:316][776]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.03.15-02.26.59:324][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.03.15-02.26.59:417][779]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.15-02.27.10:485][632]LightingResults: New page: Lighting Build
+[2023.03.15-02.27.10:485][632]LoadErrors: New page: Loading map: Overview.umap
+[2023.03.15-02.27.10:540][632]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.27.10:541][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.27.10:546][632]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.03.15-02.27.10:546][632]MapCheck: New page: Map Check
+[2023.03.15-02.27.10:546][632]LightingResults: New page: Lighting Build
+[2023.03.15-02.27.10:552][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-02.27.10:564][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.03.15-02.27.10:579][632]LogAudio: Display: Audio Device (ID: 1) registered with world 'Overview'.
+[2023.03.15-02.27.10:579][632]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-02.27.10:579][632]LogAIModule: Creating AISystem for world Overview
+[2023.03.15-02.27.10:592][632]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.15-02.27.10:600][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.03.15-02.27.10:608][632]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.15-02.27.10:608][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,083ms to complete.
+[2023.03.15-02.27.10:608][632]LogFileHelpers: Loading map 'Overview' took 0.123
+[2023.03.15-02.27.13:438][909]Cmd: MAP LOAD FILE="../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/Levels/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.03.15-02.27.13:440][909]LightingResults: New page: Lighting Build
+[2023.03.15-02.27.13:440][909]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.03.15-02.27.13:480][909]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2023.03.15-02.27.13:481][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.15-02.27.13:481][909]MapCheck: New page: Map Check
+[2023.03.15-02.27.13:481][909]LightingResults: New page: Lighting Build
+[2023.03.15-02.27.13:487][909]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.15-02.27.13:489][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.03.15-02.27.13:524][909]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.03.15-02.27.13:524][909]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.15-02.27.13:525][909]LogAIModule: Creating AISystem for world LevelTest
+[2023.03.15-02.27.13:525][909]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.03.15-02.27.13:525][909]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.03.15-02.27.13:525][909]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.03.15-02.27.13:784][909]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.03.15-02.27.13:784][909]LogWorldPartition: Display: WorldPartition initialize took 258 ms (total: 10.0 sec)
+[2023.03.15-02.27.13:814][909]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.15-02.27.13:826][909]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.03.15-02.27.13:833][909]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.15-02.27.13:834][909]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,283ms to complete.
+[2023.03.15-02.27.13:834][909]LogFileHelpers: Loading map 'LevelTest' took 0.396
+[2023.03.15-02.28.35:171][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.03.15-02.28.35:175][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.15-02.28.35:224][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/2/AF/D1H1K9OUV7N6HIPRN0XVVI
+[2023.03.15-02.28.35:224][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/D1H1K9OUV7N6HIPRN0XVVIE45A011E4BD2C800156DA09B5E4574D6.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/2/AF/D1H1K9OUV7N6HIPRN0XVVI.uasset'
+[2023.03.15-02.28.35:225][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/9/2M/3K44JUAZGKGEL7SPXZ6W12
+[2023.03.15-02.28.35:225][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/3K44JUAZGKGEL7SPXZ6W1253D785774447AC928795A2933A161D21.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/9/2M/3K44JUAZGKGEL7SPXZ6W12.uasset'
+[2023.03.15-02.28.35:227][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/D/1S/PEF9H2O7OV1TG1YRV8TETT
+[2023.03.15-02.28.35:227][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/PEF9H2O7OV1TG1YRV8TETT95034D7B45010266E7248E98BC87A5A1.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/D/1S/PEF9H2O7OV1TG1YRV8TETT.uasset'
+[2023.03.15-02.28.35:228][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/E/CG/GW8KI7QC76YZ7BA2D57PRD
+[2023.03.15-02.28.35:228][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/GW8KI7QC76YZ7BA2D57PRD0F3C90814D8E530C47610DA75DF0FE7D.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/E/CG/GW8KI7QC76YZ7BA2D57PRD.uasset'
+[2023.03.15-02.28.35:229][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/B/UX/HHL453XHOCD21T216HN5FG
+[2023.03.15-02.28.35:229][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/HHL453XHOCD21T216HN5FG81696C1A49D50CE496D55280D4634DEC.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/B/UX/HHL453XHOCD21T216HN5FG.uasset'
+[2023.03.15-02.28.35:230][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/E/RR/BKRX1Y4DFI3RAFLPK4A2GZ
+[2023.03.15-02.28.35:230][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/BKRX1Y4DFI3RAFLPK4A2GZ9F5E865B411B7EDE686A37AD4C0D8F48.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/E/RR/BKRX1Y4DFI3RAFLPK4A2GZ.uasset'
+[2023.03.15-02.28.35:231][336]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/LevelTest/4/UR/UP2FCQCP3M516KL9OV5PF6
+[2023.03.15-02.28.35:232][336]LogSavePackage: Moving '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Saved/UP2FCQCP3M516KL9OV5PF6A555E7654A0876E53ECD94A1F81F7126.tmp' to '../../../../../Study/Udemy/Courses/Game development with Unreal Engine from 0 to professional/MagicLand/Content/__ExternalActors__/Levels/LevelTest/4/UR/UP2FCQCP3M516KL9OV5PF6.uasset'
+[2023.03.15-02.28.35:237][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.25 sec)
+[2023.03.15-02.28.35:241][336]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.15-02.28.35:241][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1103872824
+[2023.03.15-02.28.35:241][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1709614855
+[2023.03.15-02.28.35:242][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1679221854
+[2023.03.15-02.28.35:242][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1676920853
+[2023.03.15-02.28.35:242][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1674183852
+[2023.03.15-02.28.35:242][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1671566851
+[2023.03.15-02.28.35:242][336]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/LevelTest.LevelTest:PersistentLevel.SM_Plains_Grass01_UAID_A8A15945CE7A686F01_1661446850
+[2023.03.15-02.28.38:958][632]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms

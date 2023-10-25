@@ -1854,3 +1854,1108 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.25-15.09.39:594][307]LogDerivedDataCache: C:/Users/juanc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.238 and deleted 0 files with total size 0 MiB. Scanned 2133 files in 2127 folders with total size 184 MiB.
 [2023.10.25-15.09.44:180][499]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.10.25-15.09.44:187][499]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.25-15.12.42:788][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.10.25-15.12.42:920][819]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03_peak.Level_03_peak
+[2023.10.25-15.12.42:920][819]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_peak.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.12.42:921][819]LightingResults: New page: Lighting Build
+[2023.10.25-15.12.42:921][819]LoadErrors: New page: Loading map: Level_03_peak.umap
+[2023.10.25-15.12.42:957][819]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.12.42:957][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.12.42:961][819]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.10.25-15.12.42:963][819]MapCheck: New page: Map Check
+[2023.10.25-15.12.42:963][819]LightingResults: New page: Lighting Build
+[2023.10.25-15.12.42:967][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.12.42:980][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.25-15.12.42:984][819]LogWorld: UWorld::CleanupWorld for Level_03_peak, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.12.42:984][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.12.42:991][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.12.42:996][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.25-15.12.43:035][819]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03_peak'.
+[2023.10.25-15.12.43:035][819]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.12.43:035][819]LogAIModule: Creating AISystem for world Level_03_peak
+[2023.10.25-15.12.43:035][819]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_peak)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.12.43:035][819]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.12.43:035][819]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_peak, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.12.43:062][819]LogContentBundle: [Container: Level_03_peak] Creating new contrainer.
+[2023.10.25-15.12.43:062][819]LogWorldPartition: Display: WorldPartition initialize took 26 ms (total: 688 ms)
+[2023.10.25-15.12.43:073][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.12.43:081][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.25-15.12.43:085][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.12.43:086][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.643ms to complete.
+[2023.10.25-15.12.43:086][819]LogFileHelpers: Loading map 'Level_03_peak' took 0.165
+[2023.10.25-15.12.50:837][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.25-15.12.50:966][582]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_01_tutorial.Level_01_tutorial
+[2023.10.25-15.12.50:966][582]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.12.50:966][582]LightingResults: New page: Lighting Build
+[2023.10.25-15.12.50:966][582]LoadErrors: New page: Loading map: Level_01_tutorial.umap
+[2023.10.25-15.12.50:996][582]LogWorld: UWorld::CleanupWorld for Level_03_peak, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.12.50:996][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.12.50:999][582]LogContentBundle: [Container: Level_03_peak] Deleting container.
+[2023.10.25-15.12.50:999][582]MapCheck: New page: Map Check
+[2023.10.25-15.12.50:999][582]LightingResults: New page: Lighting Build
+[2023.10.25-15.12.51:004][582]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.12.51:007][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.25-15.12.51:008][582]LogWorld: UWorld::CleanupWorld for Level_01_tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.12.51:008][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.12.51:015][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.25-15.12.51:020][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.25-15.12.51:059][582]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01_tutorial'.
+[2023.10.25-15.12.51:059][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.12.51:059][582]LogAIModule: Creating AISystem for world Level_01_tutorial
+[2023.10.25-15.12.51:060][582]LogWorldPartition: ULevel::OnLevelLoaded(Level_01_tutorial)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.12.51:060][582]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.12.51:060][582]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_01_tutorial, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.12.51:061][582]LogContentBundle: [Container: Level_01_tutorial] Creating new contrainer.
+[2023.10.25-15.12.51:061][582]LogWorldPartition: Display: WorldPartition initialize took 970 us (total: 689 ms)
+[2023.10.25-15.12.51:067][582]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.12.51:074][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.12.51:079][582]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.12.51:079][582]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.55ms to complete.
+[2023.10.25-15.12.51:079][582]LogFileHelpers: Loading map 'Level_01_tutorial' took 0.113
+[2023.10.25-15.12.54:321][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/6/7Q/E90W6YQETOI0SN6UQAVX50': Can't find file.
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Emitter Level_01_Turorial:PersistentLevel.P_AttackPower_Aura_UAID_A8A15945CE7A336D01_1993620240'
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/6/14/C2B2UT1VWKDN0QK0NWH8YX': Can't find file.
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Emitter Level_01_Turorial:PersistentLevel.P_AttackPower_Aura_UAID_A8A15945CE7A366D01_1143850777'
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/D/V8/JXLIW0VVHIN9IU71D3VE9H': Can't find file.
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Emitter Level_01_Turorial:PersistentLevel.P_Gate_Fire_Locked_01_UAID_A8A15945CE7A336D01_1993639241'
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/7/2N/JC7WGWOCP9EMIXTAVJOM1N': Can't find file.
+[2023.10.25-15.12.54:382][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Emitter Level_01_Turorial:PersistentLevel.P_Gate_Fire_Locked_01_UAID_A8A15945CE7A356D01_1992840600'
+[2023.10.25-15.12.54:383][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/7/8Y/2L5LE2P29Q3CG63FCTKNMB': Can't find file.
+[2023.10.25-15.12.54:383][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Emitter Level_01_Turorial:PersistentLevel.P_GoldSparkle_Bag_Lo_UAID_A8A15945CE7A336D01_1993641242'
+[2023.10.25-15.12.54:383][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/2/TW/R2PB7HFVD5RMAEB797YNH2': Can't find file.
+[2023.10.25-15.12.54:383][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Emitter Level_01_Turorial:PersistentLevel.P_GoldSparkle_Bag_Lo_UAID_A8A15945CE7A346D01_1108688419'
+[2023.10.25-15.12.54:383][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/0/56/VRJUD6JAF8Q6EY17YEWYE5': Can't find file.
+[2023.10.25-15.12.54:383][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/0/56/VRJUD6JAF8Q6EY17YEWYE5'
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\__ExternalActors__\Levels\Level_01_Turorial\3\BT\YZIRXPE9O8KC52UPUUCHOT.uasset: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/5/0O/LA55VQGRO3RBYRL1LK8ERE': Can't find file.
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/5/0O/LA55VQGRO3RBYRL1LK8ERE'
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\__ExternalActors__\Levels\Level_01_Turorial\3\BT\YZIRXPE9O8KC52UPUUCHOT.uasset: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/8/7R/JJXJPS6J0Y14L70UIPPG4Z': Can't find file.
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/8/7R/JJXJPS6J0Y14L70UIPPG4Z'
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\__ExternalActors__\Levels\Level_01_Turorial\3\BT\YZIRXPE9O8KC52UPUUCHOT.uasset: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/B/US/WO7V9N8NDCGEG1HWV5NI8J': Can't find file.
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/B/US/WO7V9N8NDCGEG1HWV5NI8J'
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\__ExternalActors__\Levels\Level_01_Turorial\3\BT\YZIRXPE9O8KC52UPUUCHOT.uasset: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/C/HB/Z1ZZ1X0CY6HK9DXCRPZW3D': Can't find file.
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/C/HB/Z1ZZ1X0CY6HK9DXCRPZW3D'
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\__ExternalActors__\Levels\Level_01_Turorial\3\BT\YZIRXPE9O8KC52UPUUCHOT.uasset: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/C/JJ/9RS7WUDOSXCMXIA4H86X0I': Can't find file.
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/C/JJ/9RS7WUDOSXCMXIA4H86X0I'
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\__ExternalActors__\Levels\Level_01_Turorial\3\BT\YZIRXPE9O8KC52UPUUCHOT.uasset: Failed to load '/Game/__ExternalActors__/Levels/Level_01_Turorial/D/3S/J3C9FYX9FM2VPOLWVBGO9C': Can't find file.
+[2023.10.25-15.12.54:385][964]LogLinker: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: VerifyImport: Failed to load package for import object 'Package /Game/__ExternalActors__/Levels/Level_01_Turorial/D/3S/J3C9FYX9FM2VPOLWVBGO9C'
+[2023.10.25-15.12.54:398][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.10.25-15.12.54:398][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:400][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:402][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:402][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:402][964]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.10.25-15.12.54:402][964]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.10.25-15.12.54:441][964]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_01_Turorial.Level_01_Turorial
+[2023.10.25-15.12.54:441][964]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Turorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.12.54:441][964]LightingResults: New page: Lighting Build
+[2023.10.25-15.12.54:441][964]LoadErrors: New page: Loading map: Level_01_Turorial.umap
+[2023.10.25-15.12.54:444][964]LogWorld: UWorld::CleanupWorld for Level_01_tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.12.54:444][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.12.54:447][964]LogContentBundle: [Container: Level_01_tutorial] Deleting container.
+[2023.10.25-15.12.54:447][964]MapCheck: New page: Map Check
+[2023.10.25-15.12.54:447][964]LightingResults: New page: Lighting Build
+[2023.10.25-15.12.54:453][964]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.12.54:454][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.10.25-15.12.54:455][964]LogWorld: UWorld::CleanupWorld for Level_01_Turorial, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.12.54:455][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.12.54:462][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.25-15.12.54:466][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.25-15.12.54:483][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.10.25-15.12.54:484][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:485][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.12.54:486][964]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.10.25-15.12.54:486][964]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.10.25-15.12.54:504][964]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01_Turorial'.
+[2023.10.25-15.12.54:504][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.12.54:504][964]LogAIModule: Creating AISystem for world Level_01_Turorial
+[2023.10.25-15.12.54:504][964]LogWorldPartition: ULevel::OnLevelLoaded(Level_01_Turorial)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.12.54:504][964]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.12.54:504][964]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_01_Turorial, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.12.54:520][964]LogContentBundle: [Container: Level_01_Turorial] Creating new contrainer.
+[2023.10.25-15.12.54:520][964]LogWorldPartition: Display: WorldPartition initialize took 16 ms (total: 705 ms)
+[2023.10.25-15.12.54:528][964]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.12.54:536][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.12.54:541][964]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.12.54:541][964]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.614ms to complete.
+[2023.10.25-15.12.54:541][964]LogFileHelpers: Loading map 'Level_01_Turorial' took 0.101
+[2023.10.25-15.13.06:549][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.25-15.13.06:670][134]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_02.Level_02
+[2023.10.25-15.13.06:670][134]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_02.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.13.06:670][134]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.06:670][134]LoadErrors: New page: Loading map: Level_02.umap
+[2023.10.25-15.13.06:674][134]LogWorld: UWorld::CleanupWorld for Level_01_Turorial, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.06:675][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.06:677][134]LogContentBundle: [Container: Level_01_Turorial] Deleting container.
+[2023.10.25-15.13.06:677][134]MapCheck: New page: Map Check
+[2023.10.25-15.13.06:677][134]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.06:683][134]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.13.06:686][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.25-15.13.06:687][134]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.06:687][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.06:688][134]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.06:688][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.06:696][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.25-15.13.06:701][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.10.25-15.13.06:769][134]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_02'.
+[2023.10.25-15.13.06:769][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.13.06:769][134]LogAIModule: Creating AISystem for world Level_02
+[2023.10.25-15.13.06:769][134]LogWorldPartition: ULevel::OnLevelLoaded(Level_02)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.13.06:769][134]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.13.06:769][134]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_02, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.13.06:771][134]LogContentBundle: [Container: Level_02] Creating new contrainer.
+[2023.10.25-15.13.06:771][134]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 707 ms)
+[2023.10.25-15.13.06:778][134]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.13.06:785][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.13.06:790][134]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.13.06:790][134]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.54ms to complete.
+[2023.10.25-15.13.06:790][134]LogFileHelpers: Loading map 'Level_02' took 0.120
+[2023.10.25-15.13.08:705][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.10.25-15.13.09:108][359]LogStaticMesh: Display: Building static mesh SM_Bush...
+[2023.10.25-15.13.09:111][359]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Cave.Cave
+[2023.10.25-15.13.09:111][359]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Cave.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.13.09:111][359]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.09:111][359]LoadErrors: New page: Loading map: Cave.umap
+[2023.10.25-15.13.09:113][359]LogStaticMesh: Display: Building static mesh SM_Rock...
+[2023.10.25-15.13.09:126][359]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Rock.SM_Rock
+[2023.10.25-15.13.09:127][359]LogStaticMesh: Built static mesh [0.02s] /Game/StarterContent/Props/SM_Bush.SM_Bush
+[2023.10.25-15.13.09:146][359]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.09:146][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.09:149][359]LogContentBundle: [Container: Level_02] Deleting container.
+[2023.10.25-15.13.09:149][359]MapCheck: New page: Map Check
+[2023.10.25-15.13.09:149][359]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.09:154][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.13.09:156][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: ================================================
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: Total job queries 318, among them cache hits 92 (28.93%)
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: Tracking 226 distinct input hashes that result in 125 distinct outputs (55.31%)
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: RAM used: 1.64 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.25-15.13.09:159][359]LogShaderCompilers: Display: ================================================
+[2023.10.25-15.13.09:439][359]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.09:439][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.09:441][359]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.09:441][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.09:448][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.25-15.13.09:454][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.25-15.13.09:456][359]LogAudio: Display: Audio Device (ID: 1) registered with world 'Cave'.
+[2023.10.25-15.13.09:456][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.13.09:456][359]LogAIModule: Creating AISystem for world Cave
+[2023.10.25-15.13.09:463][359]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.13.09:469][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.25-15.13.09:474][359]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.13.09:474][359]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2023.10.25-15.13.09:474][359]LogFileHelpers: Loading map 'Cave' took 0.363
+[2023.10.25-15.13.09:485][359]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.25-15.13.13:280][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.10.25-15.13.13:375][731]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Template.Template
+[2023.10.25-15.13.13:375][731]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.13.13:375][731]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.13:375][731]LoadErrors: New page: Loading map: Template.umap
+[2023.10.25-15.13.13:376][731]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.13:376][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.13:376][731]MapCheck: New page: Map Check
+[2023.10.25-15.13.13:376][731]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.13:381][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.13.13:381][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.25-15.13.13:383][731]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.13:383][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.13:391][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.25-15.13.13:396][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.25-15.13.13:434][731]LogAudio: Display: Audio Device (ID: 1) registered with world 'Template'.
+[2023.10.25-15.13.13:434][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.13.13:434][731]LogAIModule: Creating AISystem for world Template
+[2023.10.25-15.13.13:435][731]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.13.13:435][731]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.13.13:435][731]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.13.13:460][731]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.10.25-15.13.13:460][731]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 732 ms)
+[2023.10.25-15.13.13:472][731]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.13.13:480][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.25-15.13.13:484][731]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.13.13:485][731]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.642ms to complete.
+[2023.10.25-15.13.13:485][731]LogFileHelpers: Loading map 'Template' took 0.110
+[2023.10.25-15.13.17:871][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.10.25-15.13.17:958][159]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelTest.LevelTest
+[2023.10.25-15.13.17:958][159]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.13.17:958][159]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.17:959][159]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.10.25-15.13.17:961][159]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.17:961][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.17:964][159]LogContentBundle: [Container: Template] Deleting container.
+[2023.10.25-15.13.17:964][159]MapCheck: New page: Map Check
+[2023.10.25-15.13.17:964][159]LightingResults: New page: Lighting Build
+[2023.10.25-15.13.17:970][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.13.17:973][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.25-15.13.17:975][159]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.17:975][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.17:982][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.10.25-15.13.17:987][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.13.18:026][159]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.10.25-15.13.18:026][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.13.18:026][159]LogAIModule: Creating AISystem for world LevelTest
+[2023.10.25-15.13.18:027][159]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.13.18:027][159]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.13.18:027][159]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.13.18:275][159]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.10.25-15.13.18:276][159]LogWorldPartition: Display: WorldPartition initialize took 249 ms (total: 981 ms)
+[2023.10.25-15.13.18:308][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.13.18:320][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.13.18:326][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.13.18:328][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.384ms to complete.
+[2023.10.25-15.13.18:328][159]LogFileHelpers: Loading map 'LevelTest' took 0.369
+[2023.10.25-15.13.27:444][851]LogObjectTools: Deleting 1 worlds: /Game/Levels/Level_03_peak.Level_03_peak
+[2023.10.25-15.13.27:444][851]LogObjectTools: Currently 2 active worlds: /Game/Levels/LevelTest.LevelTest, /Engine/Transient.World_0
+[2023.10.25-15.13.27:450][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.13.32:167][851]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.25-15.13.32:173][851]LogUObjectGlobals: Force Deleting 91 Package(s):
+	Asset Name: /Game/Levels/Level_03_peak.Level_03_peak
+	Asset Type: World
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/8/4G/X47ZW4ACR4UQ9HFENOTSEM
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/1/JL/5SP4BOWCXVKD318ZOW7JVC
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/5/FU/T49UJJC791K8UODI5QQE69
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/B/4S/3WCOGJ2BDVGN0MR47DJ1QO
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/C/CZ/ITWOKA38LIT2Z37QEMF0ZW
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/1/9T/15582ZG8879NOW4WRA6TYF
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/0/31/JNDYMEM9AFOHPP28YRWXIN
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/1/VD/F391YZTP8TH26HB1OZSNXW
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_03_peak/2/LV/3ZM9SWAFWERP1DU5N0Z6KN
+	Asset Type: Package
+[2023.10.25-15.13.32:281][851]LogWorld: UWorld::CleanupWorld for Level_03_peak, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.13.32:281][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.13.32:343][851]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2023.10.25-15.13.41:859][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.25-15.13.41:865][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.13.41:871][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.10.25-15.13.45:691][851]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.13.45:691][851]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.13.45:691][851]SourceControl: Unstaged changes after reset:
+[2023.10.25-15.13.45:691][851]SourceControl: M	Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2023.10.25-15.13.45:691][851]SourceControl: M	Saved/Logs/MagicLand.log
+[2023.10.25-15.13.45:691][851]SourceControl: Unstaged changes after reset:
+[2023.10.25-15.13.45:691][851]SourceControl: M	Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2023.10.25-15.13.45:691][851]SourceControl: M	Saved/Logs/MagicLand.log
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/E/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/E/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/E/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/C/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/B/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/A/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/A/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/A/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/9/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/9/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/5/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/5/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/5/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/B/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/6/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/5/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/4/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/4/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/4/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/4/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/3/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/1/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/1/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/B/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/F/': No such file or directory
+[2023.10.25-15.13.49:396][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/E/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/C/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/A/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/7/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/5/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/4/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/3/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/3/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/3/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/3/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/E/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/D/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/C/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/9/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/9/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/2/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/1/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/0/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/1/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/C/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/B/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/5/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/1/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_03_peak/8/': No such file or directory
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/0/Y5/VTYSP2GSXSZL0KNVA2IUZC.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/1/L3/EV5Z6KQPJXCHB41MHHMYA8.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/1/LE/CP1D4LYZWBX8A97P0HWC2O.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/2/1F/5PCKDLNG30KW33HEYC3F2X.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/2/OJ/513M6Y8OI27GORK19IFUMY.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/2/VZ/9YGM9K9AF2SPMP80Q8CI67.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/2/WV/4XHDOH77HSZGCF0V1G4Z6H.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/2/ZY/FXTQWWS27J14HJG5JLH0MF.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/3/GY/86Z7GN94FO2LKJURZHN7AW.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/4/5G/EC7TXMSBZPHXJ96GWKKVTR.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/4/8B/9HVOFXFF5SGHY7VGRTZ3CB.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/4/8H/6Y52K036DNOR9LWCLATBG3.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/4/SA/5R7TRRKPPMTI0YHN8KCL39.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/5/IP/RQF1WAMK3C7U28MVMM87S0.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/5/NC/AS0FUW7RI4OVOHM6WRSJJB.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/5/RN/0V1N1XWNFC5T0H77DF1EUQ.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/5/WD/OOPRK2LVT3LEHWZY3GR7F3.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/6I/S09VFUUSALTHG0BGYAAUY3.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/85/FGAW3NB9KNN16JDD9S6HBV.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/95/CVNG5VV6SCUTS10UIMK2VU.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/AX/JJ1E7SYZS5FYHOSC6AVKHO.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/DB/AIHOE7XYQ4CUY4ZZC9M216.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/EI/JCQSP4GL65EC4UPNK77OU1.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/F0/YUMAJYP4S62NWEVA8T9I6E.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/I1/5TJCNQNNN7FLUDMXOZF4DN.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/IM/NL4H6KJMNHGAX01BTYJYAM.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/6/X3/Q076JYDRYQSJ63C269ZT0P.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/7/16/AMMX5XBQ9I5EJR2X7C81RU.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/7/9W/3PDKD3GXW61GK4ZM329Y8B.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/7/DD/W9D6CGA96PCJ7IUE5X0LOJ.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/7/K8/ZSJQIWUM9HIBQ2G5LRU5UJ.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/7/KX/1ZIF69TGVP5IT9Q6KSPGZP.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/8/22/H5X6GR6GT79DFXJHU4NY3L.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/8/M1/4I6QXEY6HAKN28SPUCKXYU.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/8/VE/L408HDBFMCHWDEQCPGNBQI.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/9/I6/0M1TJQON2YC6QLGWSYQ56W.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/9/QS/VRYRVZAJBRN8DV2X9YDS0U.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/A/R9/C77XZMBXUSTIUCPWUNRC6G.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/A/RY/WFG5JKQK6J4QTTSVCEPBS5.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/A/U7/BWRTL07CDE9ZNMNI0XOYA5.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/B/EW/UNSFY6OFR2UJFM0XTMDAF3.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/B/L5/6P0ILB8NZQR86XRTB9XV6G.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/B/XC/7INRLHK17U65RAL1SZ9FE2.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/C/UV/QJRSTCCU8FTBQO9N8BJ4NW.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/D/85/Z2ZCPD79LZKK3CZ55JJZ5E.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/D/VR/C29MD9U7C141Z8TOF4LYKG.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/D/YD/A0N03XHXI7VRHACLCNJOQF.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/E/3M/EK5LWZ4VWSKYAC67XRRDE4.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/E/AO/6YV2SFTYGHTQPRBKDIJI83.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/E/CY/6DDT3CSVUKHV2EGDIBMHX3.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/Levels/Level_03_peak.umap'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/0/2S/NOIFJ4DNIHMCYHXXM8O7NS.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/0/31/JNDYMEM9AFOHPP28YRWXIN.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/0/FY/ABL0ULXBGTUEDUJAI82O24.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/0/RL/4C9EFOQ1MGW3RQRYDGK4O8.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/1/9T/15582ZG8879NOW4WRA6TYF.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/1/JL/5SP4BOWCXVKD318ZOW7JVC.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/1/VD/F391YZTP8TH26HB1OZSNXW.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/2/LV/3ZM9SWAFWERP1DU5N0Z6KN.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/5/FU/T49UJJC791K8UODI5QQE69.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/8/4G/X47ZW4ACR4UQ9HFENOTSEM.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/8/FI/8O2G9Y4DMKWIWO4CF6SRR2.uasset'
+[2023.10.25-15.13.49:397][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/9/L1/PMMFDM6QI4S5J5MELI5GEB.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/9/WB/FLL95JVRXB0GZNT8PA3FA7.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/B/4S/3WCOGJ2BDVGN0MR47DJ1QO.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/C/CZ/ITWOKA38LIT2Z37QEMF0ZW.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/C/LC/5IM57QA75240PG5LXMW5R2.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/D/BS/B6XC5PX4U6ODBAUHQTFO31.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_03_peak/E/FR/09VFSUL8P3SJX5RIWHOJOB.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/0/B2/TZ0FOVBJYQG57JD2D6EH0T.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/0/M1/DJ286DZHQ8K6D6IM7BRL5D.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/2/75/PJ21AU387FRW2YRRGRQF57.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/3/D7/6TZJNZOH8N9LQA79OHOIIM.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/3/FG/UYA654E6GCS3BXTA5UVHN9.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/3/KT/PEKPS8VJGUHMB6CPLAXE67.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/3/U5/1M9VVEQ44XDLF8Z83ZIOIP.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/4/FK/GS2VV0O9OBRI7FBSGML1DH.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/5/RN/6GG4N7U6M8L4Q297T18K04.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/7/2U/X3J7CWNYSMTK50A9KPI6Q3.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/7/DL/V978ZRXANGP0OEG99IUEF3.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/8/2E/62RFDJ215D0QL0M66NISOC.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/8/R2/PGR0XIFVXQRXSP11NL12FS.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/8/TK/SJ1E6OPO5GTFRH9TY0DS8C.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/A/RA/GJ39VDOULMBHOQ43A101ZV.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/C/GR/O3FXZWGJ97P527N5AELVPN.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/D/1M/W9BZTS3GE98PHWUCW3PNB0.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/D/8B/78KYYPX7IH9MZVEG1I0XO5.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/D/ZG/56XYJB9HK2WZECOFVF82EI.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/D/ZJ/AV2U5A07L2JYMWU0G61ZGY.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/E/SO/9ECN2XT3HAB2Y0PZ5KV47A.uasset'
+[2023.10.25-15.13.49:398][851]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_03_peak/F/51/D495EULQ9XB2U9CE46CV20.uasset'
+[2023.10.25-15.13.49:679][851]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/Level_03_peak does not exist, will not scan.
+[2023.10.25-15.14.06:234][ 95]LogObjectTools: Deleting 1 worlds: /Game/Levels/Level_01_tutorial.Level_01_tutorial
+[2023.10.25-15.14.06:234][ 95]LogObjectTools: Currently 2 active worlds: /Game/Levels/LevelTest.LevelTest, /Engine/Transient.World_0
+[2023.10.25-15.14.06:240][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.25-15.14.10:598][ 95]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.25-15.14.10:826][ 95]LogUObjectGlobals: Force Deleting 38 Package(s):
+	Asset Name: /Game/Levels/Level_01_tutorial.Level_01_tutorial
+	Asset Type: World
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/B/JU/HNU3RHVZ7QMGXNFXUJFRBK
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/2/N7/F3V81TTQFD1L85OR4I1OAT
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/5/3A/G29ULN4BHVNXZKHCLT971R
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/E/KQ/6E95A88AJPZJ3EJHSQJBQ8
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/8/XD/3NTWYX6EVZ8G9BHHAIWHUN
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/C/9C/A93USY6NY8HW3184BUIDY5
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/0/2L/EJVBUPWMZWIB1SSBRD3GJB
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/3/MR/HZP3WLPGY5XSQ8KI30WZY1
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01/5/82/VNIZ2UNMONMUURB447FQ54
+	Asset Type: Package
+[2023.10.25-15.14.10:925][ 95]LogWorld: UWorld::CleanupWorld for Level_01_tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.14.10:925][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.14.15:179][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.25-15.14.15:185][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.25-15.14.15:189][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.10.25-15.14.17:056][ 95]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/D/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/A/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/A/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/9/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/8/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/7/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/5/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/4/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/3/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/3/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/2/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/2/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/2/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/1/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_tutorial/7/': No such file or directory
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/Levels/Level_01_tutorial.umap'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/0/2L/EJVBUPWMZWIB1SSBRD3GJB.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/2/N7/F3V81TTQFD1L85OR4I1OAT.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/3/MR/HZP3WLPGY5XSQ8KI30WZY1.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/5/3A/G29ULN4BHVNXZKHCLT971R.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/5/82/VNIZ2UNMONMUURB447FQ54.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/7/PR/MHDVC0GGOFW4TS8O710DOT.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/8/XD/3NTWYX6EVZ8G9BHHAIWHUN.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/9/AZ/MNKS0LA55P45AZ6APT3M08.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/B/AY/8BBNEMGSMYJ3VWML8DXTG0.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/B/JU/HNU3RHVZ7QMGXNFXUJFRBK.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/C/9C/A93USY6NY8HW3184BUIDY5.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/C/D7/UKZZAVQWMSSTZ37YUB0D68.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/E/27/W3Q9YVNPAM08XJYLUNRUT7.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01/E/KQ/6E95A88AJPZJ3EJHSQJBQ8.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_tutorial/7/A3/4STTJ72A7B3QJM1SFPRC2J.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/8M/CN8CMJZD751DFOD4BNQ53M.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/BV/AGXM2AHOPGDM7EGNSEG7DF.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/RK/410Q4EUSFIMGC7IIQUQW85.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/0/U2/PJXRPTRTW1VFQIZ3XTA4FW.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/1/KY/33N6P9PJAMS9URFMVL1WZ0.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/2/22/JQ31V2L73CFOPP2KV25RBD.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/2/UN/D8AJLJM8IV5I0Y47SKQK4V.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/2/W8/XO4YPQ8F4O2T8KK854ZZJD.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/3/DO/MFEXDSKT1JJCZIURMK664T.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/3/IM/251N1XYFMUXET0I2Z7XO5E.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/4/F8/8JDWQRF38RFNA6C7AJ9WRI.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/5/IG/IA97MYGBF2X9UBB3UDA5WD.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/7/4B/1BCIM5QWCVDU73T7VQUJ5Z.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/8/Q6/F9VSBEL6QQCL3FJCRNJ3W5.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/9/04/OTRZAOHFUSXPS5KLIEIULD.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/A/C2/YJTXO9W8YUH6XVBLJXDRF7.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/A/R2/5KLLOVWEAVVIE0C2I2H76W.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/4Y/SCUEM7WUE6W1G8DRFQ0C5I.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/G9/37NR10IA6Z1E450QN9PPWC.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/NN/XN2PN7XL5QZRV35PWYV2IR.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/C/W3/N6TNLDE89IERHOHRWOAKRW.uasset'
+[2023.10.25-15.14.18:750][ 95]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_tutorial/D/FW/DP7Q749J6CLSG2X4S0IP9T.uasset'
+[2023.10.25-15.14.18:831][ 95]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/Level_01_tutorial does not exist, will not scan.
+[2023.10.25-15.14.36:697][443]LogObjectTools: Deleting 1 worlds: /Game/Levels/Level_02.Level_02
+[2023.10.25-15.14.36:697][443]LogObjectTools: Currently 2 active worlds: /Game/Levels/LevelTest.LevelTest, /Engine/Transient.World_0
+[2023.10.25-15.14.36:703][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.25-15.14.39:764][443]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.25-15.14.39:767][443]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.14.39:767][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.14.40:821][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.25-15.14.40:827][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.25-15.14.40:832][443]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.10.25-15.14.42:238][443]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/F/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/E/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/E/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/D/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/D/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/B/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/B/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/A/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/8/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/7/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/7/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/6/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/5/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/4/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/3/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/3/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/3/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/2/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/1/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/1/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/1/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_02/0/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_02/3/': No such file or directory
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/Levels/Level_02.umap'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_02/3/2E/V7P904JO5WF8Y4DKQ7W9GM.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/0/XJ/P7ZBKWE25V5N3JWPNKTEXR.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/1/5E/GWL11FIM9D9F8HCFNFEBEL.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/1/HK/836RWBR153GBXN16OX0I3N.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/1/XV/73RAP8LNQ1PM81N63VVHVD.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/2/08/8APQ82ACP8SLA4B8TRF3NS.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/3/3B/2WEC4VWRL4BUJQ7DIQWLU0.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/3/ML/KY23J9G7PWBH4UWAQWZ190.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/3/O2/8FLHC8ZUSQ2TUFFYNOXG9D.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/4/1T/1XD720IITJ61Z7CLMNHE40.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/5/UQ/BAIWJ6ZFSR8GTRA58XNECJ.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/6/NM/TCOO30CI2O886PBNXHX7IW.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/7/91/ZPX69TS5YMY21R3HUFEOU9.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/7/CE/16U38P350V678N8IWPNZCM.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/8/O4/914GV9KTD1GM20WC852NXF.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/A/4R/0QZX83RYC8KMOY83N2VI3W.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/B/1G/W2IBCMW3FOLT0K2PLNAEWP.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/B/RH/W0FYT92SFGL8LDBCIYGF1S.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/D/G7/6FR5L2WYYKP4KZ26AQUMFP.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/D/N7/CGHNTN5KSPM9VXRBH040HH.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/E/9Q/WEOWH8NHUAETM4XY37UXCS.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/E/CH/E3F8FWJUZH2GY9IU568GL5.uasset'
+[2023.10.25-15.14.43:371][443]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_02/F/2Z/UNDIK6QLPHFZGWVQQ4Q83K.uasset'
+[2023.10.25-15.14.43:474][443]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/Level_02 does not exist, will not scan.
+[2023.10.25-15.14.45:731][599]LogObjectTools: Deleting 1 worlds: /Game/Levels/Cave.Cave
+[2023.10.25-15.14.45:731][599]LogObjectTools: Currently 2 active worlds: /Game/Levels/LevelTest.LevelTest, /Engine/Transient.World_0
+[2023.10.25-15.14.45:738][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.10.25-15.14.46:906][599]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.25-15.14.46:908][599]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.14.46:909][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.14.47:002][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.25-15.14.47:008][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.25-15.14.47:013][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.25-15.14.47:493][599]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.14.47:638][599]SourceControl: rm 'Content/Levels/Cave.umap'
+[2023.10.25-15.14.49:547][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.10.25-15.14.49:547][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2023.10.25-15.14.49:548][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:548][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:548][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:548][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:549][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:550][732]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2023.10.25-15.14.49:550][732]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.10.25-15.14.49:550][732]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Level_01_Turorial.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2023.10.25-15.14.49:585][732]LogObjectTools: Deleting 1 worlds: /Game/Levels/Level_01_Turorial.Level_01_Turorial
+[2023.10.25-15.14.49:585][732]LogObjectTools: Currently 2 active worlds: /Game/Levels/LevelTest.LevelTest, /Engine/Transient.World_0
+[2023.10.25-15.14.49:591][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.25-15.14.54:971][732]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.25-15.14.55:088][732]LogUObjectGlobals: Force Deleting 59 Package(s):
+	Asset Name: /Game/Levels/Level_01_Turorial.Level_01_Turorial
+	Asset Type: World
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01_Turorial/3/BT/YZIRXPE9O8KC52UPUUCHOT
+	Asset Type: Package
+	Asset Name: /Game/__ExternalActors__/Levels/Level_01_Turorial/E/4W/S4RD6RULOQY1T71O4LTWPR
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/0/CX/SR1DGNERJ284J0RA8CYG2D
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/2/8V/NFBNLEIMQKUT3WN1325T8M
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/3/AQ/2H6CXCCELZZ1H4NJTNBIS1
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/3/VU/LX26W6AHZNTP6S5EZCXHS1
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/3/WE/X1P6Q6VRWMD09XDV7FHPTK
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/3/YI/0Q1VRN54UNUIQU7BXW8NMF
+	Asset Type: Package
+	Asset Name: /Game/__ExternalObjects__/Levels/Level_01_Turorial/6/0N/HDSEPE7KHNPO38S0G73H96
+	Asset Type: Package
+[2023.10.25-15.14.55:191][732]LogWorld: UWorld::CleanupWorld for Level_01_Turorial, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.14.55:191][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.15.01:981][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.10.25-15.15.01:987][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.15.01:992][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.10.25-15.15.05:258][732]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.15.05:258][732]SourceControl: Error: Updated 0 paths from the index
+[2023.10.25-15.15.05:258][732]SourceControl: Unstaged changes after reset:
+[2023.10.25-15.15.05:258][732]SourceControl: M	Saved/Autosaves/PackageRestoreData.json
+[2023.10.25-15.15.05:258][732]SourceControl: M	Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2023.10.25-15.15.05:258][732]SourceControl: M	Saved/Logs/MagicLand.log
+[2023.10.25-15.15.05:258][732]SourceControl: Unstaged changes after reset:
+[2023.10.25-15.15.05:258][732]SourceControl: M	Saved/Autosaves/PackageRestoreData.json
+[2023.10.25-15.15.05:258][732]SourceControl: M	Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+[2023.10.25-15.15.05:258][732]SourceControl: M	Saved/Logs/MagicLand.log
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/B/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/B/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/B/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/A/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/A/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/A/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/9/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/6/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/2/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/2/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/1/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/1/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/0/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/E/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/B/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/B/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/B/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/A/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/8/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/6/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/6/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/2/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/Levels/Level_01_Turorial/0/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/E/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: Error: warning: could not open directory 'Content/__ExternalActors__/Levels/Level_01_Turorial/3/': No such file or directory
+[2023.10.25-15.15.08:165][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/0/L8/DV742AKX4OXDF4QSLZATV2.uasset'
+[2023.10.25-15.15.08:165][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/1/5I/083S6BHWV9A1E8K3CMTCQB.uasset'
+[2023.10.25-15.15.08:165][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/1/BC/PP8T4RZB46DPAVB4FGW0YM.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/2/3Z/SICOS3IO7RU8JCMU05NVGY.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/2/KX/PMG4YE7L50Q2UCVRZFF7XF.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/3/M4/2FBVXPOJ37XT4K3U1W3A1K.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/3/RY/7XUI3U216ERUPQJEGNPC7G.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/9K/3T160DGO2XRBUZUROQLD74.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/CF/05PFNU5CNQIJ6LTNITRBLN.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/EB/3O9M6A68BY6P14PRUXNUO0.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/4/HH/60UNAJCWLDJK3HS2MVK2CE.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/0L/WA2BH6W2LZFJSNY4TYD0XT.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/5W/Q3S1YFXKCUGCPAPNUGSLQF.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/M5/PF97BPAFM0LU8BDMZ5RJWC.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/5/R1/E4YF2WIR1O8YIXZY15VGJ2.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/6/RD/2MEEWT82EMPGIA3QS13K34.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/7/KQ/IXJCDW4QNCB5I2I072AIW0.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/7/X5/GRKZY9KS3GAZQWQ53FZI0Z.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/7/ZX/NER0M0QMMD7CN3MPW75RUW.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/FW/RP2XI05TVUQ1C3N7J0H63B.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/H2/E2963CH2SZOBUJGUXFYZI0.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/HX/ORPDS6SSE248R5TWRQ5FZG.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/8/U4/1ZX4RDDFISA7JLP890QS6I.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/9/91/KVU6F7QA61OHOGJFHSDHAQ.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/A/D6/YZKPNT6S8CXPEHMVRDW7OI.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/A/P5/EPIEQKBMDSMZN6O625QP5Z.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/A/XD/55ONXH96O2JTDN0QL367DG.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/B/P2/BKDYS45IDJQH0ZV1QWH3BQ.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/B/VW/JJ24A2CCHWULDK21DTB003.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/B/YR/R7RIFU27JQUFBDIFGT9C5P.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/96/4IV9SFKC1QDJ6COOZ1BWCI.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/GL/BLCZ7SLFGM88U2SNHO8YJ1.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/RZ/WKR5EQ9WJCIUTE2PYSWJNS.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/D/SB/T4EYEE0JF86M1GQILREQEE.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/6/0N/HDSEPE7KHNPO38S0G73H96.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/6/15/W95VR4C7MWGDVSNLQCPSVT.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/BR/W0G2X6K9H2WHT34LTBC2NL.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/DE/N8PAFWRJPGDFBC878RRZP8.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/F2/NSHD6YTBZYHYMQTM043FLA.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/7/L9/56GTL71ZHET7IT2IXO3MWA.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/8/9S/S9XA2MK1U7VERI4YPA75SR.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/A/9Y/TTDI6KN1SXBQ27DEVO2VPN.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/B/1M/J2Z1VFH5MJOMIT5C0XU4VL.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/B/JT/3JXETPWVXTCFJMQGHTPZOV.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/B/SQ/9QWF2AYCXOJRU532Y6TMAV.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/26/MZDEEMSTC0L0HW2POC7RXC.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/7M/5HT1ZGZDC6A70EQGHT4D6B.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/GH/3NWI7L0FHIQ06FQW0TB848.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/C/R4/INK8LLGWES3JKZIWE7M97L.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/E/9V/ZEJVT91MS2VHBX5HIB1NH7.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/Levels/Level_01_Turorial.umap'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/3/BT/YZIRXPE9O8KC52UPUUCHOT.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalActors__/Levels/Level_01_Turorial/E/4W/S4RD6RULOQY1T71O4LTWPR.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/0/CX/SR1DGNERJ284J0RA8CYG2D.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/2/8V/NFBNLEIMQKUT3WN1325T8M.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/AQ/2H6CXCCELZZ1H4NJTNBIS1.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/VU/LX26W6AHZNTP6S5EZCXHS1.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/WE/X1P6Q6VRWMD09XDV7FHPTK.uasset'
+[2023.10.25-15.15.08:166][732]SourceControl: rm 'Content/__ExternalObjects__/Levels/Level_01_Turorial/3/YI/0Q1VRN54UNUIQU7BXW8NMF.uasset'
+[2023.10.25-15.15.08:377][732]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Levels/Level_01_Turorial does not exist, will not scan.
+[2023.10.25-15.18.17:466][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.10.25-15.18.23:435][288]LogSlate: Window 'Save Content' being destroyed
+[2023.10.25-15.18.23:550][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-15.18.23:594][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01.umap" SILENT=true
+[2023.10.25-15.18.23:600][288]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.005848 seconds
+[2023.10.25-15.18.23:600][288]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.10.25-15.18.23:691][288]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.043 s
+[2023.10.25-15.18.23:691][288]LogOutputDevice: Error: === Handled ensure: ===
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: 
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: Ensure condition failed: false  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\CoreUObject\Private\UObject\SavePackage2.cpp] [Line: 567] 
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: Attempting to save a map package '/Game/Levels/Level_01' that does not contain a map object.
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: Stack: 
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeda4b73bb UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeda49f3ee UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeda48b727 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeda49d0c5 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeda49d2de UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed3225f0e UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed3226895 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed32559b0 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed3251dd6 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed3c5a912 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed359df1b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed359c843 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed35cc27b UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed35cc450 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed359e78d UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed35e04b1 UnrealEditor-UnrealEd.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec45c1d26 UnrealEditor-AssetTools.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeaa226206 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeaa226a58 UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffeaa20e3ba UnrealEditor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec3976fdc UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec390fcac UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec39796d8 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec391f066 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec3875f92 UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec398fd7d UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffec397a18d UnrealEditor-ContentBrowser.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed555ef35 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed55c4c42 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed55b4372 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffed55aa788 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff545d1967 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff545b67d1 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff545d4391 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff545aff93 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff6e988241 USER32.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff6e987a8b USER32.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ffea65e7243 InkObj.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff3dca10f2 atlthunk.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff6e988241 USER32.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff6e987d01 USER32.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff545d5849 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ff7c0167332 UnrealEditor.exe!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ff7c018287d UnrealEditor.exe!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ff7c018296a UnrealEditor.exe!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ff7c0185680 UnrealEditor.exe!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ff7c01971b4 UnrealEditor.exe!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007ff7c019a516 UnrealEditor.exe!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff6fc2257d KERNEL32.DLL!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: [Callstack] 0x00007fff7052aa78 ntdll.dll!UnknownFunction []
+[2023.10.25-15.18.23:693][288]LogOutputDevice: Error: 
+[2023.10.25-15.18.23:701][288]LogStats:                SubmitErrorReport -  0.000 s
+[2023.10.25-15.18.24:386][288]LogStats:                    SendNewReport -  0.686 s
+[2023.10.25-15.18.24:386][288]LogStats:             FDebug::EnsureFailed -  0.786 s
+[2023.10.25-15.18.24:386][288]LogSavePackage: Error: Attempting to save a map package '/Game/Levels/Level_01' that does not contain a map object.
+[2023.10.25-15.18.26:361][288]LogSlate: Window 'Message' being destroyed
+[2023.10.25-15.18.26:364][288]Message dialog closed, result: Continue, title: Message, text: The asset '/Game/Levels/Level_01' (Level_01.umap) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2023.10.25-15.18.26:368][288]EditorErrors: New page: Save Output
+[2023.10.25-15.18.26:368][288]EditorErrors: Warning: Attempting to save a map asset 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_01.umap' that does not contain a map object
+[2023.10.25-15.18.28:724][288]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2023.10.25-15.18.28:766][288]Message dialog closed, result: Ok, title: Packages Failed To Save, text: The following assets failed to save correctly:
+/Game/Levels/Level_01
+[2023.10.25-15.18.28:766][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.21 sec
+[2023.10.25-15.18.28:766][288]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelTest.LevelTest
+[2023.10.25-15.18.28:766][288]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.18.28:766][288]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.28:766][288]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.10.25-15.18.28:796][288]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.18.28:796][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.18.28:801][288]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.10.25-15.18.28:801][288]MapCheck: New page: Map Check
+[2023.10.25-15.18.28:801][288]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.28:809][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.18.28:819][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.25-15.18.28:860][288]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.10.25-15.18.28:860][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.18.28:861][288]LogAIModule: Creating AISystem for world LevelTest
+[2023.10.25-15.18.28:861][288]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.18.28:861][288]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.18.28:861][288]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.18.29:114][288]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.10.25-15.18.29:114][288]LogWorldPartition: Display: WorldPartition initialize took 252 ms (total: 1.23 sec)
+[2023.10.25-15.18.29:146][288]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.18.29:158][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.18.29:162][288]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.18.29:164][288]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.341ms to complete.
+[2023.10.25-15.18.29:164][288]LogFileHelpers: Loading map 'LevelTest' took 0.397
+[2023.10.25-15.18.32:253][541]LogSlate: Window 'Message Log' being destroyed
+[2023.10.25-15.18.32:256][541]LogSlate: Window 'Message Log' being destroyed
+[2023.10.25-15.18.34:918][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.10.25-15.18.35:016][783]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Template.Template
+[2023.10.25-15.18.35:016][783]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.18.35:016][783]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.35:016][783]LoadErrors: New page: Loading map: Template.umap
+[2023.10.25-15.18.35:024][783]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.18.35:024][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.18.35:030][783]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.10.25-15.18.35:030][783]MapCheck: New page: Map Check
+[2023.10.25-15.18.35:030][783]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.35:037][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.18.35:048][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.10.25-15.18.35:052][783]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.18.35:052][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.18.35:058][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.18.35:064][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.10.25-15.18.35:103][783]LogAudio: Display: Audio Device (ID: 1) registered with world 'Template'.
+[2023.10.25-15.18.35:103][783]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.18.35:104][783]LogAIModule: Creating AISystem for world Template
+[2023.10.25-15.18.35:104][783]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.18.35:104][783]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.18.35:104][783]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.18.35:129][783]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.10.25-15.18.35:129][783]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 1.25 sec)
+[2023.10.25-15.18.35:140][783]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.18.35:148][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.10.25-15.18.35:154][783]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.18.35:154][783]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.652ms to complete.
+[2023.10.25-15.18.35:154][783]LogFileHelpers: Loading map 'Template' took 0.137
+[2023.10.25-15.18.36:058][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.25-15.18.36:150][868]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelTest.LevelTest
+[2023.10.25-15.18.36:150][868]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.18.36:150][868]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.36:150][868]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.10.25-15.18.36:176][868]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.18.36:176][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.18.36:178][868]LogContentBundle: [Container: Template] Deleting container.
+[2023.10.25-15.18.36:178][868]MapCheck: New page: Map Check
+[2023.10.25-15.18.36:178][868]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.36:185][868]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.18.36:187][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.10.25-15.18.36:188][868]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.18.36:188][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.18.36:196][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.25-15.18.36:201][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.25-15.18.36:240][868]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.10.25-15.18.36:240][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.18.36:240][868]LogAIModule: Creating AISystem for world LevelTest
+[2023.10.25-15.18.36:240][868]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.18.36:240][868]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.18.36:240][868]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.18.36:495][868]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.10.25-15.18.36:495][868]LogWorldPartition: Display: WorldPartition initialize took 253 ms (total: 1.51 sec)
+[2023.10.25-15.18.36:528][868]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.18.36:540][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.18.36:544][868]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.18.36:545][868]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.26ms to complete.
+[2023.10.25-15.18.36:545][868]LogFileHelpers: Loading map 'LevelTest' took 0.395
+[2023.10.25-15.18.50:431][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.18.50:433][212]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/LevelTest.LevelTest
+[2023.10.25-15.18.50:434][212]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/LevelTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.18.50:434][212]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.50:434][212]LoadErrors: New page: Loading map: LevelTest.umap
+[2023.10.25-15.18.50:466][212]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.18.50:466][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.18.50:469][212]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.10.25-15.18.50:469][212]MapCheck: New page: Map Check
+[2023.10.25-15.18.50:469][212]LightingResults: New page: Lighting Build
+[2023.10.25-15.18.50:477][212]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.18.50:487][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.25-15.18.50:529][212]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTest'.
+[2023.10.25-15.18.50:529][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.18.50:529][212]LogAIModule: Creating AISystem for world LevelTest
+[2023.10.25-15.18.50:529][212]LogWorldPartition: ULevel::OnLevelLoaded(LevelTest)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.18.50:529][212]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.18.50:529][212]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTest, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.18.50:783][212]LogContentBundle: [Container: LevelTest] Creating new contrainer.
+[2023.10.25-15.18.50:783][212]LogWorldPartition: Display: WorldPartition initialize took 253 ms (total: 1.76 sec)
+[2023.10.25-15.18.50:815][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.18.50:828][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.10.25-15.18.50:832][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.18.50:833][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.329ms to complete.
+[2023.10.25-15.18.50:833][212]LogFileHelpers: Loading map 'LevelTest' took 0.400
+[2023.10.25-15.19.13:481][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-15.19.13:530][541]LogFileHelpers: No new changes to save!
+[2023.10.25-15.19.13:530][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/LevelTest" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/LevelTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.25-15.19.13:538][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.10.25-15.19.13:555][541]LogSerialization: UsePackageTrailer: 'true'
+[2023.10.25-15.19.13:564][541]LogSavePackage: Moving output files for package: /Game/Levels/LevelTest
+[2023.10.25-15.19.13:564][541]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/LevelTest62707D59476FDF38EBFB179B565E5991.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/LevelTest.umap'
+[2023.10.25-15.19.13:571][541]LogFileHelpers: Saving map 'LevelTest' took 0.042
+[2023.10.25-15.19.13:576][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 5.31 sec)
+[2023.10.25-15.19.13:581][541]AssetCheck: New page: Asset Save: LevelTest
+[2023.10.25-15.19.13:581][541]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/LevelTest.LevelTest
+[2023.10.25-15.19.18:799][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.10.25-15.19.18:800][ 77]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Template.Template
+[2023.10.25-15.19.18:800][ 77]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.25-15.19.18:801][ 77]LightingResults: New page: Lighting Build
+[2023.10.25-15.19.18:801][ 77]LoadErrors: New page: Loading map: Template.umap
+[2023.10.25-15.19.18:806][ 77]LogWorld: UWorld::CleanupWorld for LevelTest, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.19.18:806][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.19.18:811][ 77]LogContentBundle: [Container: LevelTest] Deleting container.
+[2023.10.25-15.19.18:811][ 77]MapCheck: New page: Map Check
+[2023.10.25-15.19.18:811][ 77]LightingResults: New page: Lighting Build
+[2023.10.25-15.19.18:819][ 77]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.25-15.19.18:830][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.10.25-15.19.18:833][ 77]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.10.25-15.19.18:833][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.25-15.19.18:841][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.25-15.19.18:846][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.10.25-15.19.18:886][ 77]LogAudio: Display: Audio Device (ID: 1) registered with world 'Template'.
+[2023.10.25-15.19.18:886][ 77]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.25-15.19.18:887][ 77]LogAIModule: Creating AISystem for world Template
+[2023.10.25-15.19.18:887][ 77]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.25-15.19.18:887][ 77]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.25-15.19.18:887][ 77]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.25-15.19.18:912][ 77]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.10.25-15.19.18:912][ 77]LogWorldPartition: Display: WorldPartition initialize took 25 ms (total: 1.79 sec)
+[2023.10.25-15.19.18:923][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.25-15.19.18:931][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.10.25-15.19.18:936][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.25-15.19.18:937][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.646ms to complete.
+[2023.10.25-15.19.18:937][ 77]LogFileHelpers: Loading map 'Template' took 0.136
+[2023.10.25-15.19.27:881][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.25-15.19.27:925][938]LogFileHelpers: No new changes to save!
+[2023.10.25-15.19.27:925][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Template" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.25-15.19.27:931][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.10.25-15.19.27:956][938]LogSavePackage: Moving output files for package: /Game/Levels/Template
+[2023.10.25-15.19.27:956][938]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Template7F665F1D4E1A928409AE03961255650C.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap'
+[2023.10.25-15.19.27:962][938]LogFileHelpers: Saving map 'Template' took 0.038
+[2023.10.25-15.19.27:967][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 5.39 sec)
+[2023.10.25-15.19.27:972][938]AssetCheck: New page: Asset Save: Template
+[2023.10.25-15.19.27:972][938]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Template.Template

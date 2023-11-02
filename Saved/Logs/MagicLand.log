@@ -2190,3 +2190,104 @@ UnknownFunction []
 [2023.11.02-01.12.52:859][724]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block02_UAID_A8A15945CE7A50B801_1514309545
 [2023.11.02-01.12.52:859][724]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block02_UAID_A8A15945CE7A50B801_1477411544
 [2023.11.02-01.12.52:859][724]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block04_UAID_A8A15945CE7A50B801_1477402543
+[2023.11.02-01.18.03:032][916]LogWindowsTextInputMethodSystem: Activated input method: Español (Estados Unidos) - (Keyboard).
+[2023.11.02-01.18.03:032][916]LogWindowsTextInputMethodSystem: Activated input method: Español (Estados Unidos) - (Keyboard).
+[2023.11.02-01.18.40:588][544]LogWorldPartition: Actor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block04_UAID_A8A15945CE7A266801_1393585682 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Level_01_Tutorial/D/Z2/WCYXGVINXNNJZKPTJMNFBR.PackageMetaData in its package
+[2023.11.02-01.18.40:588][544]LogWorldPartition: Actor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block01_UAID_A8A15945CE7A256801_1770199495 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Level_01_Tutorial/B/4Q/45024814GRQJVFPQ7E1DVA.PackageMetaData in its package
+[2023.11.02-01.18.40:588][544]LogWorldPartition: Actor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block04_UAID_A8A15945CE7A266801_1355041681 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Level_01_Tutorial/6/KV/5V7UR9JKRZZD6MTR8CUOAO.PackageMetaData in its package
+[2023.11.02-01.18.40:588][544]LogWorldPartition: Actor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_Floors_Block04_UAID_A8A15945CE7A276801_1376370874 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Level_01_Tutorial/3/UL/B975LJ1ZZHU2OCV8JL1AZY.PackageMetaData in its package
+[2023.11.02-01.18.40:589][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.02-01.18.40:703][544]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03_Pick.Level_03_Pick
+[2023.11.02-01.18.40:703][544]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Pick.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.02-01.18.40:703][544]LightingResults: New page: Lighting Build
+[2023.11.02-01.18.40:703][544]LoadErrors: New page: Loading map: Level_03_Pick.umap
+[2023.11.02-01.18.40:748][544]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.02-01.18.40:748][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.02-01.18.40:751][544]LogContentBundle: [Container: Level_01_Tutorial] Deleting container.
+[2023.11.02-01.18.40:751][544]MapCheck: New page: Map Check
+[2023.11.02-01.18.40:751][544]LightingResults: New page: Lighting Build
+[2023.11.02-01.18.40:756][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.02-01.18.40:759][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.11.02-01.18.40:761][544]LogWorld: UWorld::CleanupWorld for Level_03_Pick, bSessionEnded=true, bCleanupResources=true
+[2023.11.02-01.18.40:761][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.02-01.18.40:769][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.11.02-01.18.40:773][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.11.02-01.18.40:812][544]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03_Pick'.
+[2023.11.02-01.18.40:812][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.02-01.18.40:813][544]LogAIModule: Creating AISystem for world Level_03_Pick
+[2023.11.02-01.18.40:813][544]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_Pick)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.02-01.18.40:813][544]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.02-01.18.40:813][544]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_Pick, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.02-01.18.41:077][544]LogContentBundle: [Container: Level_03_Pick] Creating new contrainer.
+[2023.11.02-01.18.41:077][544]LogWorldPartition: Display: WorldPartition initialize took 264 ms (total: 13.1 sec)
+[2023.11.02-01.18.41:109][544]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.02-01.18.41:121][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.02-01.18.41:125][544]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.02-01.18.41:127][544]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.348ms to complete.
+[2023.11.02-01.18.41:127][544]LogFileHelpers: Loading map 'Level_03_Pick' took 0.424
+[2023.11.02-01.18.48:444][ 67]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: ================================================
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Total job queries 368, among them cache hits 132 (35.87%)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Tracking 236 distinct input hashes that result in 145 distinct outputs (61.44%)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: RAM used: 1.67 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.20%
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Shaders Compiled: 23
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Jobs assigned 23, completed 23 (100.00%)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Average time worker was idle: 18.43 s
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Time job spent in pending queue: average 0.79 s, longest 5.96 s
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Job execution time: average 2.73 s, max 8.21 s
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Job life time (pending + execution): average 3.52 s, max 8.26
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 9.81 s
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Average processing rate: 2.34 jobs/sec
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Total thread time: 9.03 s
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Total thread preprocess time: 0.59 s
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Percentage time preprocessing: 6.52%
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Effective parallelization: 0.92 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.54 sec, max 0.65 sec, min 0.41 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.53 sec, max 0.69 sec, min 0.32 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    5 times, average 0.43 sec, max 0.59 sec, min 0.28 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    5 times, average 0.31 sec, max 0.34 sec, min 0.24 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 30.09% of total time (compiled    5 times, average 0.54 sec, max 0.65 sec, min 0.41 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.38% of total time (compiled    5 times, average 0.53 sec, max 0.69 sec, min 0.32 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                                  FHitProxyVS - 23.59% of total time (compiled    5 times, average 0.43 sec, max 0.59 sec, min 0.28 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display:                                                  FHitProxyPS - 16.94% of total time (compiled    5 times, average 0.31 sec, max 0.34 sec, min 0.24 sec)
+[2023.11.02-01.18.52:037][421]LogShaderCompilers: Display: ================================================
+[2023.11.02-01.19.32:480][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.02-01.19.32:482][694]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03_Pick.Level_03_Pick
+[2023.11.02-01.19.32:482][694]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Pick.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.02-01.19.32:482][694]LightingResults: New page: Lighting Build
+[2023.11.02-01.19.32:482][694]LoadErrors: New page: Loading map: Level_03_Pick.umap
+[2023.11.02-01.19.32:488][694]LogWorld: UWorld::CleanupWorld for Level_03_Pick, bSessionEnded=true, bCleanupResources=true
+[2023.11.02-01.19.32:488][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.02-01.19.32:493][694]LogContentBundle: [Container: Level_03_Pick] Deleting container.
+[2023.11.02-01.19.32:493][694]MapCheck: New page: Map Check
+[2023.11.02-01.19.32:494][694]LightingResults: New page: Lighting Build
+[2023.11.02-01.19.32:502][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.02-01.19.32:511][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.02-01.19.32:552][694]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03_Pick'.
+[2023.11.02-01.19.32:552][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.02-01.19.32:552][694]LogAIModule: Creating AISystem for world Level_03_Pick
+[2023.11.02-01.19.32:552][694]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_Pick)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.02-01.19.32:552][694]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.02-01.19.32:552][694]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_Pick, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.02-01.19.32:813][694]LogContentBundle: [Container: Level_03_Pick] Creating new contrainer.
+[2023.11.02-01.19.32:813][694]LogWorldPartition: Display: WorldPartition initialize took 261 ms (total: 13.3 sec)
+[2023.11.02-01.19.32:845][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.02-01.19.32:857][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.02-01.19.32:861][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.02-01.19.32:862][694]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.273ms to complete.
+[2023.11.02-01.19.32:862][694]LogFileHelpers: Loading map 'Level_03_Pick' took 0.381
+[2023.11.02-01.25.17:645][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.02-01.25.17:692][511]LogFileHelpers: No new changes to save!
+[2023.11.02-01.25.17:698][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_03_Pick" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Pick.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.02-01.25.17:705][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.02-01.25.17:742][511]LogSavePackage: Moving output files for package: /Game/Levels/Level_03_Pick
+[2023.11.02-01.25.17:743][511]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_03_PickC25357394C5EE3206F378992FF114160.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Pick.umap'
+[2023.11.02-01.25.17:749][511]LogFileHelpers: Saving map 'Level_03_Pick' took 0.059
+[2023.11.02-01.25.17:754][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.15 sec)
+[2023.11.02-01.25.17:760][511]AssetCheck: New page: Asset Save: Level_03_Pick
+[2023.11.02-01.25.17:760][511]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_03_Pick.Level_03_Pick

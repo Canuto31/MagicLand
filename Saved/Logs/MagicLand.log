@@ -2537,3 +2537,22 @@ GroupActor_UAID_001A7DDA7113B3BC01_1916628194
 [2023.11.16-00.41.03:719][ 50]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.844ms to complete.
 [2023.11.16-00.41.03:719][ 50]LogFileHelpers: Loading map 'Level_01_Tutorial' took 0.194
 [2023.11.16-00.41.10:068][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.11.16-00.45.33:083][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.16-00.45.33:339][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.16-00.45.33:397][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/4/SF/NHWV8GE87TFBFVAU7H5N40
+[2023.11.16-00.45.33:397][440]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/NHWV8GE87TFBFVAU7H5N40D21B2FFB43E4049D138AB880A9802A91.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/4/SF/NHWV8GE87TFBFVAU7H5N40.uasset'
+[2023.11.16-00.45.33:398][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/3/PZ/T1R0YRFVL5TLUMJ6YKA5EW
+[2023.11.16-00.45.33:398][440]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/T1R0YRFVL5TLUMJ6YKA5EW8A75ABAC4FCD7EDC3B20A79B99C943C5.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/3/PZ/T1R0YRFVL5TLUMJ6YKA5EW.uasset'
+[2023.11.16-00.45.33:399][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/D/5S/6LNCRSDJBLHU2QIBEI74VS
+[2023.11.16-00.45.33:399][440]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/6LNCRSDJBLHU2QIBEI74VSE3A07EC34AD4CD6F0EB495B556F2FDC0.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/D/5S/6LNCRSDJBLHU2QIBEI74VS.uasset'
+[2023.11.16-00.45.33:400][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/2/QK/ZPZDWRMXSA2JTLN3LVQSZ2
+[2023.11.16-00.45.33:400][440]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/ZPZDWRMXSA2JTLN3LVQSZ28EBBE08F48B48B94E25766BB50D39780.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/2/QK/ZPZDWRMXSA2JTLN3LVQSZ2.uasset'
+[2023.11.16-00.45.33:402][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/4/IK/JW1X12PTUEKG8FU30D0JSV
+[2023.11.16-00.45.33:402][440]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/JW1X12PTUEKG8FU30D0JSV3087399F4E791D8A74F661A464FB2665.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/4/IK/JW1X12PTUEKG8FU30D0JSV.uasset'
+[2023.11.16-00.45.33:409][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 2.24 sec)
+[2023.11.16-00.45.33:412][440]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.16-00.45.33:412][440]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_CastleArch_Iron_Gate_02_UAID_A8A15945CE7A356D01_1690343599
+[2023.11.16-00.45.33:412][440]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Plains_CastleArch_Iron_Gate_02_UAID_A8A15945CE7A356D01_1484864598
+[2023.11.16-00.45.33:412][440]LogContentValidation: Display: Validating /Script/Engine.Emitter /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.P_Gate_Fire_Locked_01_UAID_A8A15945CE7A356D01_1992840600
+[2023.11.16-00.45.33:412][440]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.GroupActor_UAID_001A7DDA711356AD01_1237656986
+[2023.11.16-00.45.33:412][440]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.SM_Exo_Decos_Door_Frame01_UAID_A8A15945CE7ACD6801_1341783070

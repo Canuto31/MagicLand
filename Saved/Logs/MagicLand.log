@@ -3398,3 +3398,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.26-19.09.41:588][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 4.41 sec)
 [2023.11.26-19.09.41:595][735]AssetCheck: New page: Asset Save: Template
 [2023.11.26-19.09.41:595][735]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Template.Template
+[2023.11.26-19.13.01:168][364]LogDerivedDataCache: C:/Users/juanc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.104 and deleted 0 files with total size 0 MiB. Scanned 5730 files in 5656 folders with total size 305 MiB.

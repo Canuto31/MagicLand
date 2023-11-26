@@ -2773,3 +2773,628 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.26-18.32.25:061][518]LogWorldPartition: Actor /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.GroupActor_UAID_001A7DDA711356AD01_1237656986 is unreachable without properly detaching object /Game/__ExternalActors__/Levels/Level_01_Tutorial/4/IK/JW1X12PTUEKG8FU30D0JSV.PackageMetaData in its package
 [2023.11.26-18.32.25:062][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
 [2023.11.26-18.32.25:099][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.26-18.34.24:215][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.11.26-18.34.24:313][ 90]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Template.Template
+[2023.11.26-18.34.24:313][ 90]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-18.34.24:313][ 90]LightingResults: New page: Lighting Build
+[2023.11.26-18.34.24:313][ 90]LoadErrors: New page: Loading map: Template.umap
+[2023.11.26-18.34.24:335][ 90]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.34.24:335][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.24:367][ 90]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.34.24:367][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.24:369][ 90]LogContentBundle: [Container: Level_01_Tutorial] Deleting container.
+[2023.11.26-18.34.24:369][ 90]MapCheck: New page: Map Check
+[2023.11.26-18.34.24:369][ 90]LightingResults: New page: Lighting Build
+[2023.11.26-18.34.24:392][ 90]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-18.34.24:399][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.11.26-18.34.24:404][ 90]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.34.24:404][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.24:428][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.26-18.34.24:449][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.26-18.34.24:498][ 90]LogAudio: Display: Audio Device (ID: 1) registered with world 'Template'.
+[2023.11.26-18.34.24:498][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.34.24:498][ 90]LogAIModule: Creating AISystem for world Template
+[2023.11.26-18.34.24:499][ 90]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-18.34.24:499][ 90]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-18.34.24:499][ 90]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-18.34.24:530][ 90]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.11.26-18.34.24:530][ 90]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 5.52 sec)
+[2023.11.26-18.34.24:540][ 90]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-18.34.24:568][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.26-18.34.24:572][ 90]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-18.34.24:573][ 90]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.668ms to complete.
+[2023.11.26-18.34.24:573][ 90]LogFileHelpers: Loading map 'Template' took 0.260
+[2023.11.26-18.34.26:576][289]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-18.34.26:581][289]LogContentBundle: [Container: Template] Generating Streaming for 0 Content Bundles.
+[2023.11.26-18.34.26:583][289]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-18.34.26:583][289]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-18.34.26:583][289]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 54 us)
+[2023.11.26-18.34.26:583][289]LogWorldPartition: Display: GenerateStreaming took 259 us (total: 5 ms)
+[2023.11.26-18.34.26:583][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.26-18.34.26:583][289]PIE: New page: PIE session: Template (26 nov. 2023 8:34:26 a. m.)
+[2023.11.26-18.34.26:583][289]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Template
+[2023.11.26-18.34.26:591][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008059s)
+[2023.11.26-18.34.26:591][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Template.Template to /Game/Levels/UEDPIE_0_Template.Template (0.008083s)
+[2023.11.26-18.34.26:591][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.34.26:592][289]LogAIModule: Creating AISystem for world Template
+[2023.11.26-18.34.26:592][289]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-18.34.26:592][289]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-18.34.26:592][289]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-18.34.26:593][289]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.11.26-18.34.26:593][289]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 5.52 sec)
+[2023.11.26-18.34.26:593][289]LogPlayLevel: PIE: World Init took: (0.002801s)
+[2023.11.26-18.34.26:616][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.26-18.34.26:617][289]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-18.34.26:617][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-18.34.26:617][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-18.34.26:618][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-18.34.26:618][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-18.34.26:618][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-18.34.26:619][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-18.34.26:632][289]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-18.34.26:632][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-18.34.26:632][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-18.34.26:632][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-18.34.26:633][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.11.26-18.34.26:633][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.11.26-18.34.26:634][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.11.26-18.34.26:634][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.11.26-18.34.26:634][289]LogInit: FAudioDevice initialized.
+[2023.11.26-18.34.26:634][289]LogAudio: Display: Audio Device (ID: 7) registered with world 'Template'.
+[2023.11.26-18.34.26:636][289]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-18.34.26:637][289]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Template.Template up for play (max tick rate 0) at 2023.11.26-13.34.26
+[2023.11.26-18.34.26:638][289]LogWorld: Bringing up level for play took: 0.001916
+[2023.11.26-18.34.26:639][289]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.11.26-18.34.26:641][289]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=980.000 Y=69.764 Z=261.930
+[2023.11.26-18.34.26:641][289]PIE: Server logged in
+[2023.11.26-18.34.26:642][289]PIE: Play in editor total start time 0.061 seconds.
+[2023.11.26-18.34.28:569][510]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-18.34.40:006][732]LogNet: Browse: /Game/InfinityBladeGrassLands/Maps/ElvenRuins
+[2023.11.26-18.34.40:006][732]LogLoad: LoadMap: /Game/InfinityBladeGrassLands/Maps/ElvenRuins
+[2023.11.26-18.34.40:006][732]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Template
+[2023.11.26-18.34.40:006][732]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.34.40:007][732]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.40:007][732]LogContentBundle: [Container: Template] Deleting container.
+[2023.11.26-18.34.40:053][732]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-18.34.40:056][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.26-18.34.40:115][732]LogNavigation: Warning: RecastNavMesh /Game/InfinityBladeGrassLands/Maps/ElvenRuins.ElvenRuins:PersistentLevel.RecastNavMesh-Default: ARecastNavMesh: Nav mesh version 13 < Min compatible 20. Nav mesh needs to be rebuilt. 
+
+[2023.11.26-18.34.40:144][732]LogBrush: Model_35 had invalid poly normals which have been fixed. Resave the level 'ElvenRuins' to remove this warning.
+[2023.11.26-18.34.40:144][732]LogBrush: Model_35 had invalid poly normals which have been fixed. Resave the level 'ElvenRuins' to remove this warning.
+[2023.11.26-18.34.40:144][732]LogBrush: Model_35 had invalid poly normals which have been fixed. Resave the level 'ElvenRuins' to remove this warning.
+[2023.11.26-18.34.40:268][732]LogAudio: Display: Audio Device (ID: 7) registered with world 'ElvenRuins'.
+[2023.11.26-18.34.40:268][732]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.34.40:268][732]LogAIModule: Creating AISystem for world ElvenRuins
+[2023.11.26-18.34.40:268][732]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2023.11.26-18.34.40:269][732]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-18.34.40:388][732]LogWorld: Bringing World /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins.ElvenRuins up for play (max tick rate 0) at 2023.11.26-13.34.40
+[2023.11.26-18.34.40:389][732]LogWorld: Bringing up level for play took: 0.026994
+[2023.11.26-18.34.40:392][732]LogLoad: Took 0.385990 seconds to LoadMap(/Game/InfinityBladeGrassLands/Maps/ElvenRuins)
+[2023.11.26-18.34.40:612][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-18.34.40:612][738]LogWorld: BeginTearingDown for /Game/InfinityBladeGrassLands/Maps/UEDPIE_0_ElvenRuins
+[2023.11.26-18.34.40:613][738]LogWorld: UWorld::CleanupWorld for ElvenRuins, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.34.40:616][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.40:619][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-18.34.40:624][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.40:648][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-18.34.40:648][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.26-18.34.40:650][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.11.26-18.34.40:652][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-18.34.40:671][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.26-18.34.40:700][739]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.11.26-18.34.43:174][ 34]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-18.34.43:178][ 34]LogContentBundle: [Container: Template] Generating Streaming for 0 Content Bundles.
+[2023.11.26-18.34.43:179][ 34]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-18.34.43:179][ 34]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-18.34.43:179][ 34]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 61 us)
+[2023.11.26-18.34.43:179][ 34]LogWorldPartition: Display: GenerateStreaming took 243 us (total: 5 ms)
+[2023.11.26-18.34.43:180][ 34]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.26-18.34.43:180][ 34]PIE: New page: PIE session: Template (26 nov. 2023 8:34:43 a. m.)
+[2023.11.26-18.34.43:222][ 34]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Template
+[2023.11.26-18.34.43:229][ 34]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007628s)
+[2023.11.26-18.34.43:229][ 34]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Template.Template to /Game/Levels/UEDPIE_0_Template.Template (0.007655s)
+[2023.11.26-18.34.43:229][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.34.43:229][ 34]LogAIModule: Creating AISystem for world Template
+[2023.11.26-18.34.43:229][ 34]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-18.34.43:229][ 34]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-18.34.43:229][ 34]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-18.34.43:231][ 34]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.11.26-18.34.43:231][ 34]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 5.52 sec)
+[2023.11.26-18.34.43:231][ 34]LogPlayLevel: PIE: World Init took: (0.002915s)
+[2023.11.26-18.34.43:253][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.26-18.34.43:255][ 34]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.11.26-18.34.43:255][ 34]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-18.34.43:255][ 34]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-18.34.43:255][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-18.34.43:255][ 34]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-18.34.43:255][ 34]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-18.34.43:256][ 34]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-18.34.43:256][ 34]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-18.34.43:256][ 34]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-18.34.43:256][ 34]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-18.34.43:256][ 34]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-18.34.43:256][ 34]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-18.34.43:257][ 34]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-18.34.43:269][ 34]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-18.34.43:270][ 34]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-18.34.43:270][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-18.34.43:270][ 34]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-18.34.43:270][ 34]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.11.26-18.34.43:270][ 34]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.11.26-18.34.43:272][ 34]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.11.26-18.34.43:272][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.11.26-18.34.43:272][ 34]LogInit: FAudioDevice initialized.
+[2023.11.26-18.34.43:272][ 34]LogAudio: Display: Audio Device (ID: 8) registered with world 'Template'.
+[2023.11.26-18.34.43:274][ 34]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-18.34.43:276][ 34]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Template.Template up for play (max tick rate 0) at 2023.11.26-13.34.43
+[2023.11.26-18.34.43:276][ 34]LogWorld: Bringing up level for play took: 0.001809
+[2023.11.26-18.34.43:277][ 34]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.11.26-18.34.43:279][ 34]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=980.000 Y=69.764 Z=261.930
+[2023.11.26-18.34.43:279][ 34]PIE: Server logged in
+[2023.11.26-18.34.43:279][ 34]PIE: Play in editor total start time 0.102 seconds.
+[2023.11.26-18.34.45:171][252]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-18.34.53:512][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-18.34.53:512][176]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Template
+[2023.11.26-18.34.53:512][176]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.34.53:512][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.53:512][176]LogContentBundle: [Container: Template] Deleting container.
+[2023.11.26-18.34.53:515][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-18.34.53:518][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.34.53:541][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-18.34.53:542][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.26-18.34.53:543][176]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.11.26-18.34.53:548][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.26-18.34.53:582][178]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.11.26-18.34.53:731][193]Cmd: SELECT NONE
+[2023.11.26-18.35.04:104][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.26-18.35.04:189][408]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_01_Tutorial.Level_01_Tutorial
+[2023.11.26-18.35.04:191][408]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-18.35.04:191][408]LightingResults: New page: Lighting Build
+[2023.11.26-18.35.04:191][408]LoadErrors: New page: Loading map: Level_01_Tutorial.umap
+[2023.11.26-18.35.04:193][408]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.35.04:194][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.35.04:196][408]LogContentBundle: [Container: Template] Deleting container.
+[2023.11.26-18.35.04:196][408]MapCheck: New page: Map Check
+[2023.11.26-18.35.04:196][408]LightingResults: New page: Lighting Build
+[2023.11.26-18.35.04:216][408]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-18.35.04:221][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.26-18.35.04:222][408]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-18.35.04:222][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-18.35.04:246][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.26-18.35.04:267][408]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.26-18.35.04:317][408]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01_Tutorial'.
+[2023.11.26-18.35.04:317][408]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.35.04:317][408]LogAIModule: Creating AISystem for world Level_01_Tutorial
+[2023.11.26-18.35.04:317][408]LogWorldPartition: ULevel::OnLevelLoaded(Level_01_Tutorial)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-18.35.04:317][408]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-18.35.04:317][408]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_01_Tutorial, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-18.35.04:430][408]LogContentBundle: [Container: Level_01_Tutorial] Creating new contrainer.
+[2023.11.26-18.35.04:430][408]LogWorldPartition: Display: WorldPartition initialize took 112 ms (total: 5.63 sec)
+[2023.11.26-18.35.04:447][408]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-18.35.04:475][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.26-18.35.04:479][408]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-18.35.04:481][408]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.815ms to complete.
+[2023.11.26-18.35.04:481][408]LogFileHelpers: Loading map 'Level_01_Tutorial' took 0.291
+[2023.11.26-18.35.38:683][341]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.Level_01_Tutorial
+[2023.11.26-18.35.38:684][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: ================================================
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Total job queries 622, among them cache hits 144 (23.15%)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Tracking 478 distinct input hashes that result in 245 distinct outputs (51.26%)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: RAM used: 3.41 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Shaders Compiled: 9
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100.00%)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Average time worker was idle: 355.30 s
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 1.16 s
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 1.22
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.67 s
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Average processing rate: 3.37 jobs/sec
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Total thread time: 5.09 s
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Total thread preprocess time: 0.30 s
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Percentage time preprocessing: 5.96%
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Effective parallelization: 1.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.60 sec, max 0.67 sec, min 0.42 sec)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.54 sec, max 0.59 sec, min 0.46 sec)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 52.71% of total time (compiled    5 times, average 0.54 sec, max 0.59 sec, min 0.46 sec)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 47.29% of total time (compiled    4 times, average 0.60 sec, max 0.67 sec, min 0.42 sec)
+[2023.11.26-18.36.42:534][810]LogShaderCompilers: Display: ================================================
+[2023.11.26-18.37.30:954][187]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.26-18.37.30:954][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-18.44.09:313][581]BlueprintLog: New page: Compile Level_01_Tutorial
+[2023.11.26-18.44.09:384][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.26-18.44.14:022][109]BlueprintLog: New page: Compile Level_01_Tutorial
+[2023.11.26-18.44.14:090][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.26-18.46.12:989][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.26-18.46.12:993][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_Tutorial" FILE="D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/Levels/Level_01_Tutorial_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.26-18.46.13:018][154]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_01_Tutorial_Auto1
+[2023.11.26-18.46.13:018][154]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_01_Tutorial_Auto1C82204B64060F14AECBCF3AF0844150D.tmp' to 'D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/Levels/Level_01_Tutorial_Auto1.umap'
+[2023.11.26-18.46.13:026][154]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_01_Tutorial' took 0.068
+[2023.11.26-18.46.13:026][154]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2023.11.26-18.49.21:285][513]LogSlate: Took 0.007095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.11.26-18.50.59:901][857]LogViewport: Scene viewport resized to 1235x725, mode Windowed.
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: ================================================
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Total job queries 624, among them cache hits 144 (23.08%)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Tracking 480 distinct input hashes that result in 247 distinct outputs (51.46%)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: RAM used: 3.42 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.42%
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Shaders Compiled: 11
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Jobs assigned 11, completed 11 (100.00%)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Average time worker was idle: 384.57 s
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Job execution time: average 0.89 s, max 1.16 s
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Job life time (pending + execution): average 0.94 s, max 1.22
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.88 s
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Jobs were issued in 11 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Average processing rate: 2.84 jobs/sec
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Total thread time: 5.94 s
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Total thread preprocess time: 0.36 s
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Percentage time preprocessing: 6.02%
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Effective parallelization: 1.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.60 sec, max 0.67 sec, min 0.42 sec)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.50 sec, max 0.59 sec, min 0.41 sec)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 59.51% of total time (compiled    7 times, average 0.50 sec, max 0.59 sec, min 0.41 sec)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 40.49% of total time (compiled    4 times, average 0.60 sec, max 0.67 sec, min 0.42 sec)
+[2023.11.26-18.51.00:584][929]LogShaderCompilers: Display: ================================================
+[2023.11.26-18.54.38:379][ 51]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2023.11.26-18.54.38:504][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.26-18.56.44:405][787]LogEditorTransaction: Undo Break Pin Links
+[2023.11.26-18.57.47:714][118]BlueprintLog: New page: Compile Level_01_Tutorial
+[2023.11.26-18.57.47:784][118]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.26-18.58.53:232][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.26-18.58.53:236][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_Tutorial" FILE="D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/Levels/Level_01_Tutorial_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.11.26-18.58.53:262][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_01_Tutorial_Auto2
+[2023.11.26-18.58.53:262][824]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_01_Tutorial_Auto215DDF6984184A53FAD27F9BA3FF33717.tmp' to 'D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/Levels/Level_01_Tutorial_Auto2.umap'
+[2023.11.26-18.58.53:653][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_01_Tutorial/2/7G/LQMR05KJWXAUWEM5CQMSWN_Auto2
+[2023.11.26-18.58.53:653][824]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/LQMR05KJWXAUWEM5CQMSWN_Auto2AC0F80BF4407CB762421948F687B5AD9.tmp' to 'D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_01_Tutorial/2/7G/LQMR05KJWXAUWEM5CQMSWN_Auto2.uasset'
+[2023.11.26-18.58.53:654][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_01_Tutorial/3/25/AUGI6R2ABJB3OR0I45HRFQ_Auto2
+[2023.11.26-18.58.53:654][824]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/AUGI6R2ABJB3OR0I45HRFQ_Auto2DA9D36304946F91CA837E4AF6912EE6F.tmp' to 'D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_01_Tutorial/3/25/AUGI6R2ABJB3OR0I45HRFQ_Auto2.uasset'
+[2023.11.26-18.58.53:655][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/Level_01_Tutorial/3/KY/ZCI4QKZ9F8BX8NLQ9I3OO4_Auto2
+[2023.11.26-18.58.53:655][824]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/ZCI4QKZ9F8BX8NLQ9I3OO4_Auto2056827A845EBFA9797FF4DBE2D100464.tmp' to 'D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/__ExternalActors__/Levels/Level_01_Tutorial/3/KY/ZCI4QKZ9F8BX8NLQ9I3OO4_Auto2.uasset'
+[2023.11.26-18.58.53:656][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_01_Tutorial' took 0.455
+[2023.11.26-18.58.53:656][824]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.455
+[2023.11.26-18.58.53:656][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.11.26-18.58.53:696][824]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2023.11.26-18.58.53:696][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.11.26-18.58.53:741][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2
+[2023.11.26-18.58.53:741][824]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/BP_FirstPersonCharacter_Auto2C8D4CD2A49794830CD0CA494707D2F41.tmp' to 'D:/Projects/Unreal/MagicLand/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto2.uasset'
+[2023.11.26-18.58.53:742][824]LogFileHelpers: Auto-saving content packages took 0.085
+[2023.11.26-18.59.56:870][227]LogEditorTransaction: Undo Create Pin Link
+[2023.11.26-18.59.57:388][237]LogEditorTransaction: Undo Create Pin Link
+[2023.11.26-18.59.58:224][331]LogEditorTransaction: Undo Move Node
+[2023.11.26-18.59.58:526][367]LogEditorTransaction: Undo Create Reroute Node
+[2023.11.26-18.59.58:703][388]LogEditorTransaction: Undo Move Node
+[2023.11.26-18.59.58:856][406]LogEditorTransaction: Undo Move Node
+[2023.11.26-18.59.59:033][427]LogEditorTransaction: Undo Create Reroute Node
+[2023.11.26-18.59.59:919][533]LogEditorTransaction: Undo Move Node
+[2023.11.26-19.00.08:004][494]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.08:004][494]LogEditorTransaction: Redo Move Node
+[2023.11.26-19.00.08:548][503]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.08:548][503]LogEditorTransaction: Redo Create Reroute Node
+[2023.11.26-19.00.08:986][544]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.08:986][544]LogEditorTransaction: Redo Move Node
+[2023.11.26-19.00.09:388][581]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.09:388][581]LogEditorTransaction: Redo Move Node
+[2023.11.26-19.00.10:074][652]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.10:074][652]LogEditorTransaction: Redo Create Reroute Node
+[2023.11.26-19.00.10:669][712]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.10:669][712]LogEditorTransaction: Redo Move Node
+[2023.11.26-19.00.11:165][760]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.11:165][760]LogEditorTransaction: Redo Create Pin Link
+[2023.11.26-19.00.11:886][835]Cmd: TRANSACTION REDO
+[2023.11.26-19.00.11:886][835]LogEditorTransaction: Redo Create Pin Link
+[2023.11.26-19.00.27:662][494]LogSlate: Window 'Delete Variable' being destroyed
+[2023.11.26-19.01.09:066][301]BlueprintLog: New page: Compile PickUpActor
+[2023.11.26-19.01.09:150][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.26-19.01.12:487][651]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-19.01.12:492][651]LogContentBundle: [Container: Level_01_Tutorial] Generating Streaming for 0 Content Bundles.
+[2023.11.26-19.01.12:496][651]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-19.01.12:496][651]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-19.01.12:496][651]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 70 us)
+[2023.11.26-19.01.12:497][651]LogWorldPartition: Display: GenerateStreaming took 721 us (total: 6 ms)
+[2023.11.26-19.01.12:497][651]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.26-19.01.12:497][651]LogPlayLevel: [PlayLevel] Compiling Level_01_Tutorial before play...
+[2023.11.26-19.01.12:572][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.26-19.01.12:576][651]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2023.11.26-19.01.12:576][651]PIE: New page: PIE session: Level_01_Tutorial (26 nov. 2023 9:01:12 a. m.)
+[2023.11.26-19.01.12:576][651]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_01_Tutorial
+[2023.11.26-19.01.12:588][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012146s)
+[2023.11.26-19.01.12:588][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_01_Tutorial.Level_01_Tutorial to /Game/Levels/UEDPIE_0_Level_01_Tutorial.Level_01_Tutorial (0.012167s)
+[2023.11.26-19.01.12:588][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.01.12:588][651]LogAIModule: Creating AISystem for world Level_01_Tutorial
+[2023.11.26-19.01.12:588][651]LogWorldPartition: ULevel::OnLevelLoaded(Level_01_Tutorial)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.01.12:588][651]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.01.12:588][651]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_01_Tutorial, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.01.12:592][651]LogContentBundle: [Container: Level_01_Tutorial] Creating new contrainer.
+[2023.11.26-19.01.12:592][651]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 5.64 sec)
+[2023.11.26-19.01.12:592][651]LogPlayLevel: PIE: World Init took: (0.004145s)
+[2023.11.26-19.01.12:622][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.26-19.01.12:623][651]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-19.01.12:623][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-19.01.12:623][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-19.01.12:623][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-19.01.12:623][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-19.01.12:623][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-19.01.12:625][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-19.01.12:639][651]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-19.01.12:640][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-19.01.12:640][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-19.01.12:640][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-19.01.12:640][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.11.26-19.01.12:640][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.11.26-19.01.12:641][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.11.26-19.01.12:642][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.11.26-19.01.12:642][651]LogInit: FAudioDevice initialized.
+[2023.11.26-19.01.12:642][651]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level_01_Tutorial'.
+[2023.11.26-19.01.12:643][651]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-19.01.12:647][651]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_01_Tutorial.Level_01_Tutorial up for play (max tick rate 0) at 2023.11.26-14.01.12
+[2023.11.26-19.01.12:648][651]LogWorld: Bringing up level for play took: 0.004610
+[2023.11.26-19.01.12:649][651]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.11.26-19.01.12:651][651]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=803.596 Y=702.913 Z=71.805
+[2023.11.26-19.01.12:651][651]PIE: Server logged in
+[2023.11.26-19.01.12:652][651]PIE: Play in editor total start time 0.16 seconds.
+[2023.11.26-19.01.14:487][850]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-19.01.22:282][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.01.22:282][694]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_01_Tutorial
+[2023.11.26-19.01.22:282][694]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.01.22:283][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.01.22:283][694]LogContentBundle: [Container: Level_01_Tutorial] Deleting container.
+[2023.11.26-19.01.22:293][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-19.01.22:296][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.01.22:328][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.01.22:328][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.26-19.01.22:329][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.11.26-19.01.22:333][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.01.22:336][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.26-19.01.22:364][695]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.11.26-19.01.25:489][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.26-19.01.25:758][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.01.25:961][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.01.25:962][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/2/7G/LQMR05KJWXAUWEM5CQMSWN
+[2023.11.26-19.01.25:962][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/LQMR05KJWXAUWEM5CQMSWN99528CAD4CF7DD018FD29CA3BDE9C938.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/2/7G/LQMR05KJWXAUWEM5CQMSWN.uasset'
+[2023.11.26-19.01.25:964][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/3/25/AUGI6R2ABJB3OR0I45HRFQ
+[2023.11.26-19.01.25:964][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/AUGI6R2ABJB3OR0I45HRFQ76FE968A4992F44190BBE396330C7125.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/3/25/AUGI6R2ABJB3OR0I45HRFQ.uasset'
+[2023.11.26-19.01.25:966][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/3/KY/ZCI4QKZ9F8BX8NLQ9I3OO4
+[2023.11.26-19.01.25:966][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/ZCI4QKZ9F8BX8NLQ9I3OO473CC0C464C266B1C5B6A44AA21296485.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/3/KY/ZCI4QKZ9F8BX8NLQ9I3OO4.uasset'
+[2023.11.26-19.01.25:966][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 5 ms (total: 3.54 sec)
+[2023.11.26-19.01.26:115][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_Tutorial" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.01.26:147][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.26-19.01.26:174][ 30]LogSavePackage: Moving output files for package: /Game/Levels/Level_01_Tutorial
+[2023.11.26-19.01.26:174][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_01_Tutorial818461F442FF4A19387DF9BC2553B8C3.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Tutorial.umap'
+[2023.11.26-19.01.26:181][ 30]LogFileHelpers: Saving map 'Level_01_Tutorial' took 0.370
+[2023.11.26-19.01.26:183][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/2/7G/LQMR05KJWXAUWEM5CQMSWN
+[2023.11.26-19.01.26:183][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/LQMR05KJWXAUWEM5CQMSWN28A052AD43CF774B2F4F0DBEDAC01CA9.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/2/7G/LQMR05KJWXAUWEM5CQMSWN.uasset'
+[2023.11.26-19.01.26:184][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/3/25/AUGI6R2ABJB3OR0I45HRFQ
+[2023.11.26-19.01.26:185][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/AUGI6R2ABJB3OR0I45HRFQ1978EF534EE09984C0F36C8576D194AF.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/3/25/AUGI6R2ABJB3OR0I45HRFQ.uasset'
+[2023.11.26-19.01.26:186][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Level_01_Tutorial/3/KY/ZCI4QKZ9F8BX8NLQ9I3OO4
+[2023.11.26-19.01.26:186][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/ZCI4QKZ9F8BX8NLQ9I3OO4C649E8DA4793E89FA6FD5389EAAD8A3D.tmp' to 'D:/Projects/Unreal/MagicLand/Content/__ExternalActors__/Levels/Level_01_Tutorial/3/KY/ZCI4QKZ9F8BX8NLQ9I3OO4.uasset'
+[2023.11.26-19.01.26:187][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter" FILE="D:/Projects/Unreal/MagicLand/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset" SILENT=true
+[2023.11.26-19.01.26:215][ 30]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.11.26-19.01.26:215][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/BP_FirstPersonCharacterBD6124A6400FC230E9D1208BE3BBC18F.tmp' to 'D:/Projects/Unreal/MagicLand/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.11.26-19.01.26:237][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/PickUpActor" FILE="D:/Projects/Unreal/MagicLand/Content/MyAssets/PickUpActor.uasset" SILENT=true
+[2023.11.26-19.01.26:247][ 30]LogSavePackage: Moving output files for package: /Game/MyAssets/PickUpActor
+[2023.11.26-19.01.26:247][ 30]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/PickUpActor0E9D79914C0AEDBEDFA02CBDBA032A84.tmp' to 'D:/Projects/Unreal/MagicLand/Content/MyAssets/PickUpActor.uasset'
+[2023.11.26-19.01.26:251][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 492 ms (total: 4.03 sec)
+[2023.11.26-19.01.26:258][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.26-19.01.26:258][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.11.26-19.01.26:258][ 30]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyAssets/PickUpActor.PickUpActor
+[2023.11.26-19.01.26:258][ 30]LogContentValidation: Display: Validating /Game/MyAssets/PickUpActor.PickUpActor_C /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.PickUpActor_C_UAID_A8A15945CE7A50B801_1583431546
+[2023.11.26-19.01.26:258][ 30]LogContentValidation: Display: Validating /Game/MyAssets/PickUpActor.PickUpActor_C /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.PickUpActor_C_UAID_A8A15945CE7A50B801_1602343547
+[2023.11.26-19.01.26:258][ 30]LogContentValidation: Display: Validating /Game/MyAssets/PickUpActor.PickUpActor_C /Game/Levels/Level_01_Tutorial.Level_01_Tutorial:PersistentLevel.PickUpActor_C_UAID_A8A15945CE7A7C6D01_1486352087
+[2023.11.26-19.01.26:259][ 30]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_01_Tutorial.Level_01_Tutorial
+[2023.11.26-19.02.36:252][329]BlueprintLog: New page: Compile Level_01_Tutorial
+[2023.11.26-19.02.36:321][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.26-19.02.38:507][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.26-19.02.38:605][552]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.02.38:659][552]LogFileHelpers: No new changes to save!
+[2023.11.26-19.02.38:660][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_01_Tutorial" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Tutorial.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.02.38:691][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.11.26-19.02.38:717][552]LogSavePackage: Moving output files for package: /Game/Levels/Level_01_Tutorial
+[2023.11.26-19.02.38:717][552]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_01_Tutorial7FB8B21E49C21DEC23858D8FDAA70A40.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Tutorial.umap'
+[2023.11.26-19.02.38:726][552]LogFileHelpers: Saving map 'Level_01_Tutorial' took 0.067
+[2023.11.26-19.02.38:729][552]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 4.16 sec)
+[2023.11.26-19.02.38:736][552]AssetCheck: New page: Asset Save: Level_01_Tutorial
+[2023.11.26-19.02.38:736][552]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_01_Tutorial.Level_01_Tutorial
+[2023.11.26-19.04.16:265][889]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.04.16:265][889]LightingResults: New page: Lighting Build
+[2023.11.26-19.04.16:265][889]LoadErrors: New page: Loading map: Template.umap
+[2023.11.26-19.04.16:308][889]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.04.16:308][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.04.16:344][889]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.04.16:344][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.04.16:345][889]LogContentBundle: [Container: Level_01_Tutorial] Deleting container.
+[2023.11.26-19.04.16:345][889]MapCheck: New page: Map Check
+[2023.11.26-19.04.16:345][889]LightingResults: New page: Lighting Build
+[2023.11.26-19.04.16:371][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.04.16:378][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.26-19.04.16:444][889]LogAudio: Display: Audio Device (ID: 1) registered with world 'Template'.
+[2023.11.26-19.04.16:444][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.04.16:444][889]LogAIModule: Creating AISystem for world Template
+[2023.11.26-19.04.16:445][889]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.04.16:445][889]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.04.16:445][889]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.04.16:476][889]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.11.26-19.04.16:476][889]LogWorldPartition: Display: WorldPartition initialize took 31 ms (total: 5.67 sec)
+[2023.11.26-19.04.16:488][889]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.04.16:519][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.26-19.04.16:524][889]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.04.16:525][889]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.68ms to complete.
+[2023.11.26-19.04.16:525][889]LogFileHelpers: Loading map 'Template' took 0.260
+[2023.11.26-19.04.16:573][890]LogEditorViewport: Clicking Background
+[2023.11.26-19.04.27:802][ 55]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Template.Template:PersistentLevel.Template
+[2023.11.26-19.04.27:802][ 55]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.04.51:181][338]LogSlate: Window 'Template' being destroyed
+[2023.11.26-19.05.23:926][146]BlueprintLog: New page: Compile Template
+[2023.11.26-19.05.23:996][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.26-19.07.41:351][207]BlueprintLog: New page: Compile Template
+[2023.11.26-19.07.41:414][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.26-19.07.42:134][264]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.07.42:184][264]LogFileHelpers: No new changes to save!
+[2023.11.26-19.07.42:185][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Template" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.07.42:216][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.26-19.07.42:246][264]LogSavePackage: Moving output files for package: /Game/Levels/Template
+[2023.11.26-19.07.42:246][264]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Template53B240CA4F3907CF1511D7AD2E1199C8.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap'
+[2023.11.26-19.07.42:253][264]LogFileHelpers: Saving map 'Template' took 0.070
+[2023.11.26-19.07.42:257][264]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 4.28 sec)
+[2023.11.26-19.07.42:264][264]AssetCheck: New page: Asset Save: Template
+[2023.11.26-19.07.42:264][264]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Template.Template
+[2023.11.26-19.08.02:126][587]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-19.08.02:132][587]LogContentBundle: [Container: Template] Generating Streaming for 0 Content Bundles.
+[2023.11.26-19.08.02:133][587]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-19.08.02:133][587]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-19.08.02:133][587]LogWorldPartition: Display: GetPartitionedActors took 7 us (total: 78 us)
+[2023.11.26-19.08.02:134][587]LogWorldPartition: Display: GenerateStreaming took 273 us (total: 6 ms)
+[2023.11.26-19.08.02:134][587]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.26-19.08.02:134][587]PIE: New page: PIE session: Template (26 nov. 2023 9:08:02 a. m.)
+[2023.11.26-19.08.02:134][587]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Template
+[2023.11.26-19.08.02:142][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008412s)
+[2023.11.26-19.08.02:142][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Template.Template to /Game/Levels/UEDPIE_0_Template.Template (0.008435s)
+[2023.11.26-19.08.02:142][587]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.08.02:142][587]LogAIModule: Creating AISystem for world Template
+[2023.11.26-19.08.02:143][587]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.08.02:143][587]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.08.02:143][587]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.08.02:145][587]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.11.26-19.08.02:145][587]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 5.67 sec)
+[2023.11.26-19.08.02:145][587]LogPlayLevel: PIE: World Init took: (0.002903s)
+[2023.11.26-19.08.02:176][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.26-19.08.02:178][587]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-19.08.02:178][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-19.08.02:178][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-19.08.02:178][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-19.08.02:178][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-19.08.02:178][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-19.08.02:180][587]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-19.08.02:191][587]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-19.08.02:193][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-19.08.02:193][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-19.08.02:193][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-19.08.02:194][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.11.26-19.08.02:194][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.11.26-19.08.02:195][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.11.26-19.08.02:195][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.11.26-19.08.02:195][587]LogInit: FAudioDevice initialized.
+[2023.11.26-19.08.02:195][587]LogAudio: Display: Audio Device (ID: 10) registered with world 'Template'.
+[2023.11.26-19.08.02:197][587]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-19.08.02:198][587]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Template.Template up for play (max tick rate 0) at 2023.11.26-14.08.02
+[2023.11.26-19.08.02:199][587]LogWorld: Bringing up level for play took: 0.001948
+[2023.11.26-19.08.02:200][587]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.11.26-19.08.02:201][587]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=980.000 Y=69.764 Z=261.930
+[2023.11.26-19.08.02:202][587]PIE: Server logged in
+[2023.11.26-19.08.02:202][587]PIE: Play in editor total start time 0.071 seconds.
+[2023.11.26-19.08.04:123][807]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-19.08.10:962][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.08.10:962][567]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Template
+[2023.11.26-19.08.10:962][567]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.08.10:962][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.08.10:962][567]LogContentBundle: [Container: Template] Deleting container.
+[2023.11.26-19.08.10:965][567]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-19.08.10:968][567]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.08.11:000][567]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.08.11:001][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.26-19.08.11:002][567]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.11.26-19.08.11:005][567]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.08.11:007][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.11.26-19.08.11:041][569]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.11.26-19.09.19:485][670]BlueprintLog: New page: Compile Template
+[2023.11.26-19.09.19:548][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.26-19.09.21:074][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-19.09.21:079][800]LogContentBundle: [Container: Template] Generating Streaming for 0 Content Bundles.
+[2023.11.26-19.09.21:080][800]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-19.09.21:080][800]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-19.09.21:080][800]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 84 us)
+[2023.11.26-19.09.21:081][800]LogWorldPartition: Display: GenerateStreaming took 244 us (total: 6 ms)
+[2023.11.26-19.09.21:081][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.26-19.09.21:081][800]PIE: New page: PIE session: Template (26 nov. 2023 9:09:21 a. m.)
+[2023.11.26-19.09.21:112][800]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Template
+[2023.11.26-19.09.21:120][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008003s)
+[2023.11.26-19.09.21:120][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Template.Template to /Game/Levels/UEDPIE_0_Template.Template (0.008031s)
+[2023.11.26-19.09.21:120][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.09.21:120][800]LogAIModule: Creating AISystem for world Template
+[2023.11.26-19.09.21:120][800]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.09.21:120][800]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.09.21:120][800]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.09.21:122][800]LogContentBundle: [Container: Template] Creating new contrainer.
+[2023.11.26-19.09.21:122][800]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 5.67 sec)
+[2023.11.26-19.09.21:122][800]LogPlayLevel: PIE: World Init took: (0.002826s)
+[2023.11.26-19.09.21:153][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.26-19.09.21:156][800]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-19.09.21:156][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-19.09.21:156][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-19.09.21:156][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-19.09.21:156][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-19.09.21:156][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-19.09.21:158][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-19.09.21:169][800]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-19.09.21:169][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-19.09.21:169][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-19.09.21:169][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-19.09.21:171][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.11.26-19.09.21:171][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.11.26-19.09.21:172][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.11.26-19.09.21:172][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.11.26-19.09.21:172][800]LogInit: FAudioDevice initialized.
+[2023.11.26-19.09.21:172][800]LogAudio: Display: Audio Device (ID: 11) registered with world 'Template'.
+[2023.11.26-19.09.21:174][800]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-19.09.21:176][800]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Template.Template up for play (max tick rate 0) at 2023.11.26-14.09.21
+[2023.11.26-19.09.21:176][800]LogWorld: Bringing up level for play took: 0.001982
+[2023.11.26-19.09.21:178][800]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.11.26-19.09.21:179][800]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=980.000 Y=69.764 Z=261.930
+[2023.11.26-19.09.21:180][800]PIE: Server logged in
+[2023.11.26-19.09.21:180][800]PIE: Play in editor total start time 0.101 seconds.
+[2023.11.26-19.09.23:069][ 15]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-19.09.32:992][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.09.32:992][ 86]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Template
+[2023.11.26-19.09.32:992][ 86]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.09.32:992][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.09.32:992][ 86]LogContentBundle: [Container: Template] Deleting container.
+[2023.11.26-19.09.32:995][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-19.09.32:999][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.09.33:029][ 86]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.09.33:029][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.26-19.09.33:031][ 86]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.11.26-19.09.33:033][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.09.33:035][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.11.26-19.09.33:061][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.11.26-19.09.41:358][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.26-19.09.41:457][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.09.41:514][735]LogFileHelpers: No new changes to save!
+[2023.11.26-19.09.41:515][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Template" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.09.41:545][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.26-19.09.41:571][735]LogSavePackage: Moving output files for package: /Game/Levels/Template
+[2023.11.26-19.09.41:572][735]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/TemplateC66C638D4ABE722243AD59BC95769337.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap'
+[2023.11.26-19.09.41:579][735]LogFileHelpers: Saving map 'Template' took 0.066
+[2023.11.26-19.09.41:588][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 4.41 sec)
+[2023.11.26-19.09.41:595][735]AssetCheck: New page: Asset Save: Template
+[2023.11.26-19.09.41:595][735]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Template.Template

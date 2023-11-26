@@ -3641,3 +3641,374 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.26-19.25.35:414][767]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.26-19.25.35:414][767]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Levels/Level_02.Level_02:PersistentLevel.PlayerStart_0
 [2023.11.26-19.25.35:414][767]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_02.Level_02
+[2023.11.26-19.26.19:715][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.26-19.26.20:072][545]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03_Peak.Level_03_Peak
+[2023.11.26-19.26.20:072][545]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Peak.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.26.20:072][545]LightingResults: New page: Lighting Build
+[2023.11.26-19.26.20:072][545]LoadErrors: New page: Loading map: Level_03_Peak.umap
+[2023.11.26-19.26.20:162][545]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.26.20:162][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.26.20:202][545]LogWorld: UWorld::CleanupWorld for Level_02, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.26.20:202][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.26.20:210][545]LogContentBundle: [Container: Level_02] Deleting container.
+[2023.11.26-19.26.20:210][545]MapCheck: New page: Map Check
+[2023.11.26-19.26.20:210][545]LightingResults: New page: Lighting Build
+[2023.11.26-19.26.20:238][545]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.26.20:251][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.26-19.26.20:271][545]LogWorld: UWorld::CleanupWorld for Level_03_Peak, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.26.20:271][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.26.20:301][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.26-19.26.20:327][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.11.26-19.26.20:378][545]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03_Peak'.
+[2023.11.26-19.26.20:378][545]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.26.20:379][545]LogAIModule: Creating AISystem for world Level_03_Peak
+[2023.11.26-19.26.20:379][545]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_Peak)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.26.20:379][545]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.26.20:379][545]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_Peak, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.26.20:682][545]LogContentBundle: [Container: Level_03_Peak] Creating new contrainer.
+[2023.11.26-19.26.20:682][545]LogWorldPartition: Display: WorldPartition initialize took 303 ms (total: 10.3 sec)
+[2023.11.26-19.26.20:694][545]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.26.20:723][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.11.26-19.26.20:728][545]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.26.20:729][545]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.694ms to complete.
+[2023.11.26-19.26.20:729][545]LogFileHelpers: Loading map 'Level_03_Peak' took 0.658
+[2023.11.26-19.26.24:080][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.11.26-19.26.24:082][875]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03_Peak.Level_03_Peak
+[2023.11.26-19.26.24:082][875]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Peak.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.26.24:082][875]LightingResults: New page: Lighting Build
+[2023.11.26-19.26.24:082][875]LoadErrors: New page: Loading map: Level_03_Peak.umap
+[2023.11.26-19.26.24:084][875]LogWorld: UWorld::CleanupWorld for Level_03_Peak, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.26.24:084][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.26.24:087][875]LogContentBundle: [Container: Level_03_Peak] Deleting container.
+[2023.11.26-19.26.24:088][875]MapCheck: New page: Map Check
+[2023.11.26-19.26.24:088][875]LightingResults: New page: Lighting Build
+[2023.11.26-19.26.24:113][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.26.24:117][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.26-19.26.24:167][875]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03_Peak'.
+[2023.11.26-19.26.24:167][875]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.26.24:167][875]LogAIModule: Creating AISystem for world Level_03_Peak
+[2023.11.26-19.26.24:168][875]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_Peak)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.26.24:168][875]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.26.24:168][875]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_Peak, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.26.24:198][875]LogContentBundle: [Container: Level_03_Peak] Creating new contrainer.
+[2023.11.26-19.26.24:198][875]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 10.3 sec)
+[2023.11.26-19.26.24:211][875]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.26.24:242][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.26-19.26.24:248][875]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.26.24:249][875]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.683ms to complete.
+[2023.11.26-19.26.24:249][875]LogFileHelpers: Loading map 'Level_03_Peak' took 0.166
+[2023.11.26-19.26.25:786][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.26-19.26.25:788][ 24]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_03_Peak.Level_03_Peak
+[2023.11.26-19.26.25:788][ 24]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Peak.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.26.25:788][ 24]LightingResults: New page: Lighting Build
+[2023.11.26-19.26.25:788][ 24]LoadErrors: New page: Loading map: Level_03_Peak.umap
+[2023.11.26-19.26.25:813][ 24]LogWorld: UWorld::CleanupWorld for Level_03_Peak, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.26.25:813][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.26.25:813][ 24]LogContentBundle: [Container: Level_03_Peak] Deleting container.
+[2023.11.26-19.26.25:813][ 24]MapCheck: New page: Map Check
+[2023.11.26-19.26.25:813][ 24]LightingResults: New page: Lighting Build
+[2023.11.26-19.26.25:838][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.26.25:842][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.26-19.26.25:892][ 24]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_03_Peak'.
+[2023.11.26-19.26.25:892][ 24]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.26.25:892][ 24]LogAIModule: Creating AISystem for world Level_03_Peak
+[2023.11.26-19.26.25:893][ 24]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_Peak)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.26.25:893][ 24]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.26.25:893][ 24]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_Peak, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.26.25:923][ 24]LogContentBundle: [Container: Level_03_Peak] Creating new contrainer.
+[2023.11.26-19.26.25:923][ 24]LogWorldPartition: Display: WorldPartition initialize took 31 ms (total: 10.3 sec)
+[2023.11.26-19.26.25:936][ 24]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.26.25:966][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.26-19.26.25:972][ 24]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.26.25:972][ 24]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.691ms to complete.
+[2023.11.26-19.26.25:972][ 24]LogFileHelpers: Loading map 'Level_03_Peak' took 0.185
+[2023.11.26-19.26.34:072][886]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_03_Peak.Level_03_Peak:PersistentLevel.Level_03_Peak
+[2023.11.26-19.26.34:072][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.26.37:172][107]LogSlate: Window 'Level_03_Peak' being destroyed
+[2023.11.26-19.27.01:748][851]BlueprintLog: New page: Compile Level_03_Peak
+[2023.11.26-19.27.01:816][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.26-19.27.09:215][675]BlueprintLog: New page: Compile Level_03_Peak
+[2023.11.26-19.27.09:276][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.26-19.28.43:692][612]BlueprintLog: New page: Compile Level_03_Peak
+[2023.11.26-19.28.43:756][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.11.26-19.29.06:376][234]BlueprintLog: New page: Compile Level_03_Peak
+[2023.11.26-19.29.06:439][234]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.26-19.29.19:384][740]BlueprintLog: New page: Compile Level_03_Peak
+[2023.11.26-19.29.19:447][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.11.26-19.29.21:951][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.11.26-19.29.22:057][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.29.22:096][ 14]LogFileHelpers: No new changes to save!
+[2023.11.26-19.29.22:097][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_03_Peak" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Peak.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.29.22:128][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.11.26-19.29.22:155][ 14]LogSavePackage: Moving output files for package: /Game/Levels/Level_03_Peak
+[2023.11.26-19.29.22:155][ 14]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_03_PeakE15FF50947F53711BAD822B2E43B6CE0.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_03_Peak.umap'
+[2023.11.26-19.29.22:163][ 14]LogFileHelpers: Saving map 'Level_03_Peak' took 0.068
+[2023.11.26-19.29.22:167][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.82 sec)
+[2023.11.26-19.29.22:172][ 14]AssetCheck: New page: Asset Save: Level_03_Peak
+[2023.11.26-19.29.22:172][ 14]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_03_Peak.Level_03_Peak
+[2023.11.26-19.29.26:750][539]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-19.29.26:754][539]LogContentBundle: [Container: Level_03_Peak] Generating Streaming for 0 Content Bundles.
+[2023.11.26-19.29.26:756][539]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-19.29.26:756][539]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-19.29.26:756][539]LogWorldPartition: Display: GetPartitionedActors took 10 us (total: 169 us)
+[2023.11.26-19.29.26:756][539]LogWorldPartition: Display: GenerateStreaming took 346 us (total: 11 ms)
+[2023.11.26-19.29.26:756][539]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.26-19.29.26:756][539]PIE: New page: PIE session: Level_03_Peak (26 nov. 2023 9:29:26 a. m.)
+[2023.11.26-19.29.26:782][539]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_03_Peak
+[2023.11.26-19.29.26:789][539]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008029s)
+[2023.11.26-19.29.26:789][539]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_03_Peak.Level_03_Peak to /Game/Levels/UEDPIE_0_Level_03_Peak.Level_03_Peak (0.008056s)
+[2023.11.26-19.29.26:789][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.29.26:789][539]LogAIModule: Creating AISystem for world Level_03_Peak
+[2023.11.26-19.29.26:789][539]LogWorldPartition: ULevel::OnLevelLoaded(Level_03_Peak)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.29.26:789][539]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.29.26:789][539]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_03_Peak, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.29.26:792][539]LogContentBundle: [Container: Level_03_Peak] Creating new contrainer.
+[2023.11.26-19.29.26:792][539]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 10.3 sec)
+[2023.11.26-19.29.26:792][539]LogPlayLevel: PIE: World Init took: (0.002894s)
+[2023.11.26-19.29.26:823][539]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.11.26-19.29.26:825][539]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-19.29.26:825][539]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-19.29.26:825][539]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-19.29.26:825][539]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-19.29.26:825][539]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-19.29.26:825][539]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-19.29.26:827][539]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-19.29.26:841][539]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-19.29.26:841][539]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-19.29.26:841][539]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-19.29.26:841][539]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-19.29.26:842][539]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.11.26-19.29.26:842][539]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.11.26-19.29.26:843][539]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.11.26-19.29.26:843][539]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.11.26-19.29.26:843][539]LogInit: FAudioDevice initialized.
+[2023.11.26-19.29.26:843][539]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_03_Peak'.
+[2023.11.26-19.29.26:845][539]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-19.29.26:847][539]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_03_Peak.Level_03_Peak up for play (max tick rate 0) at 2023.11.26-14.29.26
+[2023.11.26-19.29.26:847][539]LogWorld: Bringing up level for play took: 0.001954
+[2023.11.26-19.29.26:848][539]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.11.26-19.29.26:849][539]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=980.000 Y=69.764 Z=261.930
+[2023.11.26-19.29.26:851][539]PIE: Server logged in
+[2023.11.26-19.29.26:851][539]PIE: Play in editor total start time 0.097 seconds.
+[2023.11.26-19.29.28:748][757]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-19.29.35:552][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.29.35:552][493]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_03_Peak
+[2023.11.26-19.29.35:552][493]LogWorld: UWorld::CleanupWorld for Level_03_Peak, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.29.35:552][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.29.35:552][493]LogContentBundle: [Container: Level_03_Peak] Deleting container.
+[2023.11.26-19.29.35:555][493]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-19.29.35:559][493]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.29.35:589][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.29.35:590][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.26-19.29.35:591][493]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.11.26-19.29.35:596][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.26-19.29.35:638][494]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.11.26-19.30.21:254][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.26-19.30.21:815][147]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_04.Level_04
+[2023.11.26-19.30.21:815][147]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.30.21:815][147]LightingResults: New page: Lighting Build
+[2023.11.26-19.30.21:815][147]LoadErrors: New page: Loading map: Level_04.umap
+[2023.11.26-19.30.21:912][147]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.30.21:912][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.30.21:952][147]LogWorld: UWorld::CleanupWorld for Level_03_Peak, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.30.21:952][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.30.21:954][147]LogContentBundle: [Container: Level_03_Peak] Deleting container.
+[2023.11.26-19.30.21:954][147]MapCheck: New page: Map Check
+[2023.11.26-19.30.21:954][147]LightingResults: New page: Lighting Build
+[2023.11.26-19.30.21:980][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.30.21:984][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.11.26-19.30.22:003][147]LogWorld: UWorld::CleanupWorld for Level_04, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.30.22:003][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.30.22:032][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.26-19.30.22:057][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.11.26-19.30.22:108][147]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_04'.
+[2023.11.26-19.30.22:108][147]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.30.22:108][147]LogAIModule: Creating AISystem for world Level_04
+[2023.11.26-19.30.22:109][147]LogWorldPartition: ULevel::OnLevelLoaded(Level_04)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.30.22:109][147]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.30.22:109][147]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_04, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.30.22:529][147]LogContentBundle: [Container: Level_04] Creating new contrainer.
+[2023.11.26-19.30.22:529][147]LogWorldPartition: Display: WorldPartition initialize took 420 ms (total: 10.8 sec)
+[2023.11.26-19.30.22:541][147]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.30.22:569][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.11.26-19.30.22:575][147]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.30.22:576][147]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.7ms to complete.
+[2023.11.26-19.30.22:576][147]LogFileHelpers: Loading map 'Level_04' took 0.760
+[2023.11.26-19.30.27:058][583]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_04.Level_04:PersistentLevel.Level_04
+[2023.11.26-19.30.27:058][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.30.29:946][763]LogSlate: Window 'Level_04' being destroyed
+[2023.11.26-19.30.43:834][268]BlueprintLog: New page: Compile Level_04
+[2023.11.26-19.30.43:901][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.26-19.32.02:886][304]BlueprintLog: New page: Compile Level_04
+[2023.11.26-19.32.02:951][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.26-19.32.05:086][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.32.05:141][527]LogFileHelpers: No new changes to save!
+[2023.11.26-19.32.05:142][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_04" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.32.05:174][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.26-19.32.05:204][527]LogSavePackage: Moving output files for package: /Game/Levels/Level_04
+[2023.11.26-19.32.05:204][527]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_04E4C308FC49B8D592B052E4A7602771EB.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_04.umap'
+[2023.11.26-19.32.05:211][527]LogFileHelpers: Saving map 'Level_04' took 0.070
+[2023.11.26-19.32.05:215][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 4.94 sec)
+[2023.11.26-19.32.05:221][527]AssetCheck: New page: Asset Save: Level_04
+[2023.11.26-19.32.05:221][527]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_04.Level_04
+[2023.11.26-19.32.23:869][674]BlueprintLog: New page: Compile Level_04
+[2023.11.26-19.32.23:931][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.26-19.32.33:194][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.11.26-19.32.33:283][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.32.33:339][675]LogFileHelpers: No new changes to save!
+[2023.11.26-19.32.33:339][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_04" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_04.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.32.33:371][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.26-19.32.33:397][675]LogSavePackage: Moving output files for package: /Game/Levels/Level_04
+[2023.11.26-19.32.33:397][675]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_048F8F847A4A520AB16BF9CFA1533281F5.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_04.umap'
+[2023.11.26-19.32.33:405][675]LogFileHelpers: Saving map 'Level_04' took 0.066
+[2023.11.26-19.32.33:408][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 5.07 sec)
+[2023.11.26-19.32.33:415][675]AssetCheck: New page: Asset Save: Level_04
+[2023.11.26-19.32.33:415][675]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_04.Level_04
+[2023.11.26-19.33.02:410][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.11.26-19.33.02:937][825]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_05.Level_05
+[2023.11.26-19.33.02:937][825]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_05.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.33.02:937][825]LightingResults: New page: Lighting Build
+[2023.11.26-19.33.02:937][825]LoadErrors: New page: Loading map: Level_05.umap
+[2023.11.26-19.33.03:011][825]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.33.03:011][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.33.03:052][825]LogWorld: UWorld::CleanupWorld for Level_04, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.33.03:052][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.33.03:055][825]LogContentBundle: [Container: Level_04] Deleting container.
+[2023.11.26-19.33.03:055][825]MapCheck: New page: Map Check
+[2023.11.26-19.33.03:055][825]LightingResults: New page: Lighting Build
+[2023.11.26-19.33.03:081][825]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.33.03:085][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.26-19.33.03:104][825]LogWorld: UWorld::CleanupWorld for Level_05, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.33.03:104][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.33.03:131][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.26-19.33.03:156][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.11.26-19.33.03:206][825]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_05'.
+[2023.11.26-19.33.03:206][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.33.03:207][825]LogAIModule: Creating AISystem for world Level_05
+[2023.11.26-19.33.03:207][825]LogWorldPartition: ULevel::OnLevelLoaded(Level_05)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.33.03:207][825]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.33.03:207][825]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_05, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.33.03:570][825]LogContentBundle: [Container: Level_05] Creating new contrainer.
+[2023.11.26-19.33.03:570][825]LogWorldPartition: Display: WorldPartition initialize took 362 ms (total: 11.1 sec)
+[2023.11.26-19.33.03:583][825]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.33.03:612][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.26-19.33.03:618][825]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.33.03:619][825]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.716ms to complete.
+[2023.11.26-19.33.03:619][825]LogFileHelpers: Loading map 'Level_05' took 0.682
+[2023.11.26-19.33.05:872][ 35]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level_05.Level_05:PersistentLevel.Level_05
+[2023.11.26-19.33.05:872][ 35]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.33.24:064][327]BlueprintLog: New page: Compile Level_05
+[2023.11.26-19.33.24:132][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.26-19.34.57:365][786]LogSlate: Window 'Level_05' being destroyed
+[2023.11.26-19.35.05:082][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.11.26-19.35.05:179][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.26-19.35.05:218][630]LogFileHelpers: No new changes to save!
+[2023.11.26-19.35.05:219][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_05" FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_05.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.26-19.35.05:251][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.11.26-19.35.05:279][630]LogSavePackage: Moving output files for package: /Game/Levels/Level_05
+[2023.11.26-19.35.05:279][630]LogSavePackage: Moving 'D:/Projects/Unreal/MagicLand/Saved/Level_05EC01C33E48DAEBE0983AEF98A3EA4BAB.tmp' to 'D:/Projects/Unreal/MagicLand/Content/Levels/Level_05.umap'
+[2023.11.26-19.35.05:286][630]LogFileHelpers: Saving map 'Level_05' took 0.068
+[2023.11.26-19.35.05:290][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 5.18 sec)
+[2023.11.26-19.35.05:297][630]AssetCheck: New page: Asset Save: Level_05
+[2023.11.26-19.35.05:297][630]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level_05.Level_05
+[2023.11.26-19.35.25:127][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.26-19.35.25:239][150]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_01_Tutorial.Level_01_Tutorial
+[2023.11.26-19.35.25:239][150]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_01_Tutorial.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.11.26-19.35.25:239][150]LightingResults: New page: Lighting Build
+[2023.11.26-19.35.25:239][150]LoadErrors: New page: Loading map: Level_01_Tutorial.umap
+[2023.11.26-19.35.25:312][150]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.35.25:312][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.35.25:352][150]LogWorld: UWorld::CleanupWorld for Level_05, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.35.25:352][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.35.25:352][150]LogContentBundle: [Container: Level_05] Deleting container.
+[2023.11.26-19.35.25:352][150]MapCheck: New page: Map Check
+[2023.11.26-19.35.25:352][150]LightingResults: New page: Lighting Build
+[2023.11.26-19.35.25:379][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.26-19.35.25:383][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.26-19.35.25:404][150]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.35.25:404][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.35.25:432][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.11.26-19.35.25:458][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.26-19.35.25:510][150]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_01_Tutorial'.
+[2023.11.26-19.35.25:510][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.35.25:510][150]LogAIModule: Creating AISystem for world Level_01_Tutorial
+[2023.11.26-19.35.25:511][150]LogWorldPartition: ULevel::OnLevelLoaded(Level_01_Tutorial)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.35.25:511][150]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.35.25:511][150]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_01_Tutorial, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.35.25:625][150]LogContentBundle: [Container: Level_01_Tutorial] Creating new contrainer.
+[2023.11.26-19.35.25:625][150]LogWorldPartition: Display: WorldPartition initialize took 114 ms (total: 11.2 sec)
+[2023.11.26-19.35.25:644][150]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.11.26-19.35.25:675][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.11.26-19.35.25:681][150]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.11.26-19.35.25:682][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.886ms to complete.
+[2023.11.26-19.35.25:682][150]LogFileHelpers: Loading map 'Level_01_Tutorial' took 0.443
+[2023.11.26-19.35.29:504][559]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.26-19.35.29:509][559]LogContentBundle: [Container: Level_01_Tutorial] Generating Streaming for 0 Content Bundles.
+[2023.11.26-19.35.29:512][559]LogWorldPartition: Display: GenerateStreaming started...
+[2023.11.26-19.35.29:512][559]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.11.26-19.35.29:512][559]LogWorldPartition: Display: GetPartitionedActors took 8 us (total: 178 us)
+[2023.11.26-19.35.29:513][559]LogWorldPartition: Display: GenerateStreaming took 680 us (total: 12 ms)
+[2023.11.26-19.35.29:513][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.26-19.35.29:513][559]PIE: New page: PIE session: Level_01_Tutorial (26 nov. 2023 9:35:29 a. m.)
+[2023.11.26-19.35.29:513][559]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_01_Tutorial
+[2023.11.26-19.35.29:527][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013889s)
+[2023.11.26-19.35.29:527][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_01_Tutorial.Level_01_Tutorial to /Game/Levels/UEDPIE_0_Level_01_Tutorial.Level_01_Tutorial (0.013915s)
+[2023.11.26-19.35.29:527][559]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.26-19.35.29:528][559]LogAIModule: Creating AISystem for world Level_01_Tutorial
+[2023.11.26-19.35.29:528][559]LogWorldPartition: ULevel::OnLevelLoaded(Level_01_Tutorial)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.11.26-19.35.29:528][559]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.26-19.35.29:528][559]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_01_Tutorial, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.11.26-19.35.29:532][559]LogContentBundle: [Container: Level_01_Tutorial] Creating new contrainer.
+[2023.11.26-19.35.29:532][559]LogWorldPartition: Display: WorldPartition initialize took 3 ms (total: 11.2 sec)
+[2023.11.26-19.35.29:532][559]LogPlayLevel: PIE: World Init took: (0.004277s)
+[2023.11.26-19.35.29:558][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.11.26-19.35.29:560][559]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.26-19.35.29:560][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.26-19.35.29:560][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.26-19.35.29:560][559]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.26-19.35.29:560][559]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.26-19.35.29:560][559]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.26-19.35.29:562][559]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.26-19.35.29:574][559]LogAudioMixer: Display: Using Audio Hardware Device Headphones (BG-S8)
+[2023.11.26-19.35.29:574][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.26-19.35.29:574][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.26-19.35.29:574][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.26-19.35.29:574][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.11.26-19.35.29:574][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.11.26-19.35.29:575][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.11.26-19.35.29:575][559]LogInit: FAudioDevice initialized.
+[2023.11.26-19.35.29:575][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.11.26-19.35.29:575][559]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_01_Tutorial'.
+[2023.11.26-19.35.29:578][559]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.26-19.35.29:582][559]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_01_Tutorial.Level_01_Tutorial up for play (max tick rate 0) at 2023.11.26-14.35.29
+[2023.11.26-19.35.29:582][559]LogWorld: Bringing up level for play took: 0.004702
+[2023.11.26-19.35.29:584][559]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2023.11.26-19.35.29:585][559]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=803.596 Y=702.913 Z=71.805
+[2023.11.26-19.35.29:586][559]PIE: Server logged in
+[2023.11.26-19.35.29:586][559]PIE: Play in editor total start time 0.077 seconds.
+[2023.11.26-19.35.31:504][721]LogBlueprintUserMessages: [SceneBlueprint] Hola mundo
+[2023.11.26-19.35.44:212][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.35.44:212][109]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_01_Tutorial
+[2023.11.26-19.35.44:212][109]LogWorld: UWorld::CleanupWorld for Level_01_Tutorial, bSessionEnded=true, bCleanupResources=true
+[2023.11.26-19.35.44:213][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.35.44:213][109]LogContentBundle: [Container: Level_01_Tutorial] Deleting container.
+[2023.11.26-19.35.44:223][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.26-19.35.44:227][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.26-19.35.44:255][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.26-19.35.44:256][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.26-19.35.44:257][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.11.26-19.35.44:263][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.26-19.35.44:292][110]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.11.26-19.35.44:349][114]Cmd: SELECT NONE

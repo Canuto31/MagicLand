@@ -1900,3 +1900,116 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.24-00.11.03:802][303]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.146ms to complete.
 [2024.01.24-00.11.03:802][303]LogFileHelpers: Loading map 'Level_03_Pick' took 5.164
 [2024.01.24-00.11.03:807][303]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002186s (1.972106s overbudget)
+[2024.01.24-00.11.50:801][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.01.24-00.11.51:437][185]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_04.Level_04
+[2024.01.24-00.11.51:439][185]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Level_04.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-00.11.51:439][185]LightingResults: New page: Lighting Build
+[2024.01.24-00.11.51:439][185]LoadErrors: New page: Loading map: Level_04.umap
+[2024.01.24-00.11.51:472][185]LogWorld: UWorld::CleanupWorld for Level_03_Pick, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-00.11.51:472][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-00.11.51:479][185]LogContentBundle: [Container: Level_03_Pick] Deleting container.
+[2024.01.24-00.11.51:479][185]MapCheck: New page: Map Check
+[2024.01.24-00.11.51:479][185]LightingResults: New page: Lighting Build
+[2024.01.24-00.11.51:484][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-00.11.51:495][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.01.24-00.11.51:497][185]LogWorld: UWorld::CleanupWorld for Level_04, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-00.11.51:499][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-00.11.51:505][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-00.11.51:510][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-00.11.51:548][185]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_04'.
+[2024.01.24-00.11.51:548][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-00.11.51:549][185]LogAIModule: Creating AISystem for world Level_04
+[2024.01.24-00.11.51:549][185]LogWorldPartition: ULevel::OnLevelLoaded(Level_04)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.24-00.11.51:549][185]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-00.11.51:549][185]LogWorldPartition: UWorldPartition::Initialize(Asset=Level_04, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.24-00.11.52:109][185]LogContentBundle: [Container: Level_04] Creating new contrainer.
+[2024.01.24-00.11.52:109][185]LogWorldPartition: Display: WorldPartition initialize took 559 ms (total: 10.1 sec)
+[2024.01.24-00.11.52:120][185]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-00.11.52:127][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.01.24-00.11.52:133][185]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-00.11.52:133][185]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.635ms to complete.
+[2024.01.24-00.11.52:134][185]LogFileHelpers: Loading map 'Level_04' took 0.695
+[2024.01.24-00.11.54:203][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.01.24-00.11.54:264][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2024.01.24-00.11.54:264][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2024.01.24-00.11.54:265][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:266][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:267][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:267][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:267][384]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2024.01.24-00.11.54:267][384]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2024.01.24-00.11.54:285][384]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Template.Template
+[2024.01.24-00.11.54:285][384]Cmd: MAP LOAD FILE="D:/Projects/Unreal/MagicLand/Content/Levels/Template.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.01.24-00.11.54:285][384]LightingResults: New page: Lighting Build
+[2024.01.24-00.11.54:285][384]LoadErrors: New page: Loading map: Template.umap
+[2024.01.24-00.11.54:331][384]LogWorld: UWorld::CleanupWorld for Level_04, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-00.11.54:331][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-00.11.54:334][384]LogContentBundle: [Container: Level_04] Deleting container.
+[2024.01.24-00.11.54:334][384]MapCheck: New page: Map Check
+[2024.01.24-00.11.54:334][384]LightingResults: New page: Lighting Build
+[2024.01.24-00.11.54:340][384]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.24-00.11.54:343][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.01.24-00.11.54:345][384]LogWorld: UWorld::CleanupWorld for Template, bSessionEnded=true, bCleanupResources=true
+[2024.01.24-00.11.54:345][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.24-00.11.54:351][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.01.24-00.11.54:356][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.01.24-00.11.54:369][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2024.01.24-00.11.54:369][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] On Actor Begin Overlap (None)  is referencing an Actor that no longer exists. Attached logic will never execute.
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:370][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Warning: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Node  Unknown  is not referencing a valid level actor
+[2024.01.24-00.11.54:371][384]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2024.01.24-00.11.54:371][384]LogBlueprint: Error: [AssetLog] D:\Projects\Unreal\MagicLand\Content\Levels\Template.umap: [Compiler] Couldn't find object for bound event node  On Actor Begin Overlap (None)
+[2024.01.24-00.11.54:389][384]LogAudio: Display: Audio Device (ID: 1) registered with world 'Template'.
+[2024.01.24-00.11.54:389][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.24-00.11.54:389][384]LogAIModule: Creating AISystem for world Template
+[2024.01.24-00.11.54:389][384]LogWorldPartition: ULevel::OnLevelLoaded(Template)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.24-00.11.54:389][384]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.24-00.11.54:389][384]LogWorldPartition: UWorldPartition::Initialize(Asset=Template, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.24-00.11.54:420][384]LogContentBundle: [Container: Template] Creating new contrainer.
+[2024.01.24-00.11.54:420][384]LogWorldPartition: Display: WorldPartition initialize took 29 ms (total: 10.2 sec)
+[2024.01.24-00.11.54:430][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.01.24-00.11.54:438][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.01.24-00.11.54:443][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.01.24-00.11.54:444][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.687ms to complete.
+[2024.01.24-00.11.54:444][384]LogFileHelpers: Loading map 'Template' took 0.158
+[2024.01.24-00.12.02:705][477]LogDerivedDataCache: C:/Users/juanc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.954 and deleted 4472 files with total size 161 MiB. Scanned 6059 files in 5981 folders with total size 315 MiB.
